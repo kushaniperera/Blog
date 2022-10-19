@@ -3,4 +3,4 @@
   type:: [[study design]]
   published-year:: 2019
   DOI:: [10.1145/3365610.3365647](https://doi.org/10.1145/3365610.3365647)
-- [[card]]
+- [[card]] This study explores the experience of both users and bystanders with using a VR application facilitated by a
