@@ -1,6 +1,9 @@
 [{:block/name "a",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
+ {:block/name "ar-vr legal",
+  :block/created-at 1666212771152,
+  :block/updated-at 1666212771152}
  {:block/name "authors",
   :block/created-at 1666128212358,
   :block/updated-at 1666128212358}
@@ -33,13 +36,13 @@
   :block/updated-at 1666126565301}
  {:block/name "eghbali 2019",
   :block/created-at 1666209443150,
-  :block/updated-at 1666209812359}
+  :block/updated-at 1666212750410}
  {:block/name "elysse dick",
   :block/created-at 1666128212357,
   :block/updated-at 1666128212357}
  {:block/name "elysse dick 2021",
   :block/created-at 1666126264608,
-  :block/updated-at 1666145713671}
+  :block/updated-at 1666212771154}
  {:block/name "favorites",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -70,12 +73,18 @@
  {:block/name "published-year",
   :block/created-at 1666128226410,
   :block/updated-at 1666128226410}
+ {:block/name "study design",
+  :block/created-at 1666212750407,
+  :block/updated-at 1666212750407}
  {:block/name "tero jokela",
   :block/created-at 1666209674438,
   :block/updated-at 1666209674438}
  {:block/name "todo",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
+ {:block/name "type",
+  :block/created-at 1666212750408,
+  :block/updated-at 1666212750408}
  {:block/name "wait",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
