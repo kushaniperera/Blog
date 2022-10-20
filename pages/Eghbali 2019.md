@@ -7,3 +7,7 @@
   
   If the study had been done in a more true social context, the results would've been more generalisable because it's easy to assume that university communities are aware of these technologies and their capabilities to some extent. 
   "The isolation of the user from the others can create a form of social gap that may affect the social acceptability of VR in public context."
+  "User needs to be provided the option to choose a discrete public mode of interaction that would require less extensive movements.
+  Users should be able to stay isolated in VR when they want and be able to enjoy the VR experience without being interrupted by outside noise.
+   User needs to have a communication channel with the outside without losing their sense of immersion. 
+  The user needs the ability to switch between the virtual world and the real world at will."
