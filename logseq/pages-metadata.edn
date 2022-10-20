@@ -34,9 +34,6 @@
  {:block/name "contents",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
- {:block/name "did it?",
-  :block/created-at 1666303128727,
-  :block/updated-at 1666303128727}
  {:block/name "doi",
   :block/created-at 1666128508269,
   :block/updated-at 1666128508269}
@@ -84,7 +81,7 @@
   :block/updated-at 1666295697177}
  {:block/name "oct 21st, 2022",
   :block/created-at 1666303107750,
-  :block/updated-at 1666303133349}
+  :block/updated-at 1666305341513}
  {:block/name "pouya eghbali",
   :block/created-at 1666209674437,
   :block/updated-at 1666209674437}
