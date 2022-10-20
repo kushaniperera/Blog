@@ -3,4 +3,4 @@
   type:: [[study design]]
   published-year:: 2019
   DOI:: [10.1145/3365610.3365647](https://doi.org/10.1145/3365610.3365647)
-- [[card]] This study explores the experience of both users and bystanders when using a VR application facilitated via an HMD in a public setting. They've conducted two sessions of the experiment in a university cafeteria, one to observe the users and the other to observe the spectators.  Following this they've extended this study by using the findings from two sessions to formulate VR design strategies with expert
+- [[card]] This study explores the experience of both users and bystanders when using a VR application facilitated via an HMD in a public setting. They've conducted two sessions of the experiment in a university cafeteria, one to observe the users and the other to observe the spectators. Following this they've extended this study by using the findings from the two sessions to formulate VR design suggestions with expert UX designers and an SE. The UX experts have come up with 28
