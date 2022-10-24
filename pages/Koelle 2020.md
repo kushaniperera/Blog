@@ -1,6 +1,6 @@
 - Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies
-  authors:: [[Antti Salovaara]], [[Antti Oulasvirta]], [[Giulio Jacucci]]
+  authors:: [[Marion Koelle]], [[Swamy Ananthanarayan]], [[Susanne Boll]]
   type:: [[study design]]
-  published-year:: 2017
-  DOI:: [10.1145/3025453.3025658]( http://dx.doi.org/10.1145/3025453.3025658) 
-  citation:: Antti Salovaara, Antti Oulasvirta, and Giulio Jacucci. 2017. Evaluation of Prototypes and the Problem of Possible Futures. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). Association for Computing Machinery, New York, NY, USA, 2064–2077. https://doi.org/10.1145/3025453.3025658
+  published-year:: 2020
+  DOI:: [10.1145/3313831.3376162](http://dx.doi.org/10.1145/3313831.3376162) 
+  citation:: *Marion Koelle, Swamy Ananthanarayan, and Susanne Boll. 2020. Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–19. https://doi.org/10.1145/3313831.3376162*
