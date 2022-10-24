@@ -7,5 +7,5 @@
 	- [[card]] The study explores the suitability of experiment methodologies used in HCI in terms of addressing the present-future gap.
 	  The present-future gap arises when  prototypes are tested to identify how these technologies would fit in the future. Because, there are many factors that would affect the interaction with these technologies in the future that are not adjusted for in the present studies. Such factors in retrospect may invalidate the findings of a study.
 	  The authors look in to different levels of staging or controlling such factors in present day experiments to ensure that  an experiment remains valid in the future. To have a favourable projection validity (i.e. if the conclusions remain valid in the future).|
-	  ![image.png](../assets/image_1666642505527_0.png)
+	  ![image_1666642505527_0.png](../assets/image_1666642505527_0_1666642533085_0.png)
 		-
