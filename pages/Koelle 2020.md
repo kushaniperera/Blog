@@ -7,3 +7,6 @@
 - Montero et al's 2 dimensions of social acceptability
   1. internal acceptability or how the user subjectively feels
   2. external acceptability or the spectator's impression of the perceived user interaction
+- Davis’ Technology Acceptance Model (TAM) [24],describes the adoption of new technologies by individuals influenced through two main factors: 
+  1. perceived usefulness (PU) and 
+  2.  perceived ease-of-use (PEOU).
