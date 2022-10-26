@@ -1,2 +1,6 @@
 - TODO Read on history of AR
-	-
+	- AR vs VR
+	- Evolution of AR devices
+		- AR Core
+		- Android vs iOS
+- TODO Read on PAR for intro
