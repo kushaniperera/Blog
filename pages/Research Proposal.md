@@ -3,4 +3,6 @@
 	- Evolution of AR devices
 		- AR Core
 		- Android vs iOS
-- TODO Read on PAR for intro
+- TODO distinguish between ethics, rights and moral
+- TODO Read on intro to ethics
+- /todo read on intro to legal aspects
