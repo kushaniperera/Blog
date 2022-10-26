@@ -1,5 +1,5 @@
 - New Directions: A Value-Sensitive Design Approach to Augmented Reality
-  authors:: [[Marion Koelle]], [[Swamy Ananthanarayan]], [[Susanne Boll]]
+  authors:: [[Batya Friedman]], [[Peter H. Kahn, Jr.]]
   type:: [[study design]]
   published-year:: 2020
   DOI:: [10.1145/3313831.3376162](http://dx.doi.org/10.1145/3313831.3376162) 
