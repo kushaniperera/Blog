@@ -52,6 +52,9 @@
  {:block/name "elysse dick 2021",
   :block/created-at 1666126264608,
   :block/updated-at 1666230075827}
+ {:block/name "ethics",
+  :block/created-at 1666823755737,
+  :block/updated-at 1666823755737}
  {:block/name "favorites",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -132,4 +135,4 @@
   :block/updated-at 1666815854136}
  {:block/name "wed, 26-10-2022",
   :block/created-at 1666815331543, 
-  :block/updated-at 1666815331543}]
+  :block/updated-at 1666823768939}]
