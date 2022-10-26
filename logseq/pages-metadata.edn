@@ -61,6 +61,9 @@
  {:block/name "fri, 21-10-2022",
   :block/created-at 1666815331565,
   :block/updated-at 1666815345297}
+ {:block/name "friedman & kahn 2010",
+  :block/created-at 1666826356170,
+  :block/updated-at 1666826385147}
  {:block/name "giulio jacucci",
   :block/created-at 1666300821760,
   :block/updated-at 1666300821760}
@@ -114,7 +117,7 @@
   :block/updated-at 1666815600385}
  {:block/name "thu, 27-10-2022",
   :block/created-at 1666815331516,
-  :block/updated-at 1666815331516}
+  :block/updated-at 1666826356171}
  {:block/name "todo",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
