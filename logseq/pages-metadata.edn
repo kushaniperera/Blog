@@ -55,15 +55,9 @@
  {:block/name "favorites",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
- {:block/name "fri, 10",
-  :block/created-at 1666815201179,
-  :block/updated-at 1666815201179}
- {:block/name "fri, 10/21",
-  :block/created-at 1666815201181,
-  :block/updated-at 1666815201181}
- {:block/name "fri, 10/21/2022",
-  :block/created-at 1666815201179,
-  :block/updated-at 1666815201179}
+ {:block/name "fri, 21-10-2022",
+  :block/created-at 1666815331565,
+  :block/updated-at 1666815345297}
  {:block/name "giulio jacucci",
   :block/created-at 1666300821760,
   :block/updated-at 1666300821760}
@@ -78,7 +72,7 @@
   :block/updated-at 1666209674438}
  {:block/name "koelle 2020",
   :block/created-at 1666646138384,
-  :block/updated-at 1666646343038}
+  :block/updated-at 1666815557112}
  {:block/name "later",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -94,6 +88,9 @@
  {:block/name "published-year",
   :block/created-at 1666128226410,
   :block/updated-at 1666128226410}
+ {:block/name "research proposal",
+  :block/created-at 1666815611891,
+  :block/updated-at 1666815794399}
  {:block/name "salovaara 2017",
   :block/created-at 1666295662408,
   :block/updated-at 1666643190743}
@@ -109,33 +106,18 @@
  {:block/name "tero jokela",
   :block/created-at 1666209674438,
   :block/updated-at 1666209674438}
- {:block/name "thu, 10",
-  :block/created-at 1666815201192,
-  :block/updated-at 1666815201192}
- {:block/name "thu, 10/20",
-  :block/created-at 1666815201192,
-  :block/updated-at 1666815201192}
- {:block/name "thu, 10/20/2022",
-  :block/created-at 1666815201191,
-  :block/updated-at 1666815201191}
- {:block/name "thu, 10/27",
-  :block/created-at 1666815217099,
-  :block/updated-at 1666815217099}
- {:block/name "thu, 10/27/2022",
-  :block/created-at 1666815201114,
-  :block/updated-at 1666815201114}
+ {:block/name "thu, 20-10-2022",
+  :block/created-at 1666815331574,
+  :block/updated-at 1666815600385}
+ {:block/name "thu, 27-10-2022",
+  :block/created-at 1666815331516,
+  :block/updated-at 1666815331516}
  {:block/name "todo",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
- {:block/name "tue, 10",
-  :block/created-at 1666815201163,
-  :block/updated-at 1666815201163}
- {:block/name "tue, 10/25",
-  :block/created-at 1666815201164,
-  :block/updated-at 1666815201164}
- {:block/name "tue, 10/25/2022",
-  :block/created-at 1666815201162,
-  :block/updated-at 1666815201162}
+ {:block/name "tue, 25-10-2022",
+  :block/created-at 1666815331552,
+  :block/updated-at 1666815448144}
  {:block/name "type",
   :block/created-at 1666212750408,
   :block/updated-at 1666212750408}
@@ -145,18 +127,9 @@
  {:block/name "waiting",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
- {:block/name "wed, 10",
-  :block/created-at 1666815201204,
-  :block/updated-at 1666815201204}
- {:block/name "wed, 10/19",
-  :block/created-at 1666815201204,
-  :block/updated-at 1666815201204}
- {:block/name "wed, 10/19/2022",
-  :block/created-at 1666815201202,
-  :block/updated-at 1666815201202}
- {:block/name "wed, 10/26",
-  :block/created-at 1666815201151,
-  :block/updated-at 1666815201151}
- {:block/name "wed, 10/26/2022",
-  :block/created-at 1666815201149, 
-  :block/updated-at 1666815201149}]
+ {:block/name "wed, 19-10-2022",
+  :block/created-at 1666815331583,
+  :block/updated-at 1666815331583}
+ {:block/name "wed, 26-10-2022",
+  :block/created-at 1666815331543, 
+  :block/updated-at 1666815331543}]

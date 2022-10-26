@@ -5,4 +5,5 @@
 		- Android vs iOS
 - TODO distinguish between ethics, rights and moral
 - TODO Read on intro to ethics
-- /todo read on intro to legal aspects
+- TODO read on intro to legal aspects
+-
