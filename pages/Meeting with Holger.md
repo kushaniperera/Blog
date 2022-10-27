@@ -2,4 +2,6 @@
 	- Cite primary sources when using things from survey papers
 	- Start with the Wassom book
 	- TODO work on a demo to make Ethical implications of PAR clear
-	- Bring him (printed) papers when I'm not sure if
+	- Bring him (printed) papers when I'm not sure if the paper is relevant or not
+	- TODO might need to re-write the summary for [[Koelle 2020]]
+	-
