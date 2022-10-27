@@ -10,4 +10,4 @@
 - Davis’ Technology Acceptance Model (TAM) [24],describes the adoption of new technologies by individuals influenced through two main factors: 
   1. perceived usefulness (PU) and 
   2.  perceived ease-of-use (PEOU).
-  {Wikepedia TAM and TAM2}
+- TODO {Wikepedia TAM and TAM2}
