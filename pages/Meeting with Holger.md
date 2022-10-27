@@ -1,0 +1,3 @@
+- Thu, 27-10-2022
+	- Cite primary sources when using things from survey papers
+	- Start with
