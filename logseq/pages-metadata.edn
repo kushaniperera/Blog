@@ -64,6 +64,9 @@
  {:block/name "fri, 21-10-2022",
   :block/created-at 1666815331565,
   :block/updated-at 1666839150778}
+ {:block/name "fri, 28-10-2022",
+  :block/created-at 1666878512921,
+  :block/updated-at 1666878512921}
  {:block/name "friedman & kahn 2010",
   :block/created-at 1666826356170,
   :block/updated-at 1666827319916}
