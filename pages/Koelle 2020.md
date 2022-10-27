@@ -11,3 +11,4 @@
   1. perceived usefulness (PU) and 
   2.  perceived ease-of-use (PEOU).
 - TODO {Wikepedia TAM and TAM2}
+-
