@@ -12,6 +12,6 @@
   2.  perceived ease-of-use (PEOU).
 - TODO {Wikepedia TAM and TAM2}
 - [[card]] The authors focus on the subject of social acceptability in HCI. Even though there aren't any straight forward methods to evaluate social acceptability, they have conducted a survey of studies and they methods used to address social acceptability.
-- [[card]] [[study ideas]] in terms of social acceptabili
+- [[card]] [[study ideas]] in terms of social acceptability of gestures it would be a forward thinking idea to look into metaphorical gestures much like the
 -
 -
