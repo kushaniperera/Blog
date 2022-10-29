@@ -10,6 +10,6 @@
   In terms of evaluation SA still lacks a generalised established method of evaluation or questionnaire. Surveyed studies have used customised questionnaires that use a range of adjectives making these evaluations uncomparable and lacking generalisabilty. Standard questionnaires and vocabulary is needed.
   Design strategies that promote SA need to be evaluated and standardised, further recommends user participation in design from early on.
 - [[card]] [[study ideas]] in terms of social acceptability of gestures it would be a forward thinking idea to look into metaphorical gestures much like the UI metaphors used.
-  Though customised questionnaires lack generalisability, I think it's necessary to
+  Though customised questionnaires lack generalisability, I think it's necessary to evaluate particular prototypes. So custoomisation of questionnaires allow us frame our evaluation in a manner that suits our prototype or purpose. But, a standardi
 - 17, 31, 36, 45, 63 participants in uncontrolled settings
 -
