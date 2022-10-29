@@ -13,5 +13,5 @@
   Though customised questionnaires lack generalisability, I think it's necessary to evaluate particular prototypes. So customisation of questionnaires allow us frame our evaluation in a manner that suits our prototype or purpose. But, a standardised vocabulary indeed will make these customisations more comparable as that will ensure that all participants across studies receive the same idea or understanding.
   Though field setting studies seem the most intriguing I do not understand how we would guarantee the user's pure participation in such a study.
   In terms of user participated design might in fact help with ethical issues and SA so I need to look into Value Sensitive Design.
-- 17, 31, 36, 45, 63 participants in uncontrolled settings
+- 17, 31, 36, 45, 63 participants in uncontrolled settings [[Picked References]]
 -
