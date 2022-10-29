@@ -1,1 +1,2 @@
 - Social acceptance of AR glasses when surrounded mostly by others wearing them and when surrounded by people not wearing them. And how it might affect the users' perception of ethical implications.
+- Would users be more comfortable with a device that has more capabilities but lacks in terms of looking like an accessory that can be worn everyday ()
