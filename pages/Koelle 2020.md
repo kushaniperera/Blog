@@ -11,4 +11,4 @@
   1. perceived usefulness (PU) and 
   2.  perceived ease-of-use (PEOU).
 - TODO {Wikepedia TAM and TAM2}
-- [[card]] The authors
+- [[card]] The authors focus on the subject of social acceptability in HCI. Eventhough there aren't any straight forward methods to evaluate social acceptability, they have conducted a survey of studies that has
