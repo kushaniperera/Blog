@@ -66,10 +66,10 @@
   :block/updated-at 1666839150778}
  {:block/name "fri, 28-10-2022",
   :block/created-at 1666878512921,
-  :block/updated-at 1667024404543}
+  :block/updated-at 1667033480100}
  {:block/name "friedman & kahn 2010",
   :block/created-at 1666826356170,
-  :block/updated-at 1666827319916}
+  :block/updated-at 1667033595714}
  {:block/name "giulio jacucci",
   :block/created-at 1666300821760,
   :block/updated-at 1666300821760}
@@ -84,7 +84,7 @@
   :block/updated-at 1666209674438}
  {:block/name "koelle 2020",
   :block/created-at 1666646138384,
-  :block/updated-at 1667032226052}
+  :block/updated-at 1667033509344}
  {:block/name "later",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -97,6 +97,9 @@
  {:block/name "peter h. kahn, jr.",
   :block/created-at 1666826461822,
   :block/updated-at 1666826461822}
+ {:block/name "picked references",
+  :block/created-at 1667033509343,
+  :block/updated-at 1667033509343}
  {:block/name "pouya eghbali",
   :block/created-at 1666209674437,
   :block/updated-at 1666209674437}
@@ -108,7 +111,7 @@
   :block/updated-at 1666815794399}
  {:block/name "salovaara 2017",
   :block/created-at 1666295662408,
-  :block/updated-at 1666643190743}
+  :block/updated-at 1667033550694}
  {:block/name "sat, 29-10-2022",
   :block/created-at 1666963845686,
   :block/updated-at 1666963845686}
@@ -153,7 +156,7 @@
   :block/updated-at 1666815854136}
  {:block/name "wed, 26-10-2022",
   :block/created-at 1666815331543,
-  :block/updated-at 1666828205158}
+  :block/updated-at 1667033572878}
  {:block/name "weekly sync-up",
   :block/created-at 1666838446409, 
   :block/updated-at 1666839118174}]
