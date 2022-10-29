@@ -9,4 +9,5 @@
 - [[card]] In the psychological well-being aspect, the authors have narrowly only focused on the benefits (sticking to the same example) and have ignored possible triggering or trauma-inducing content that could be delivered via AR.
   Provides a very clear framework thats applicable to exploring ethical implications of PAR
 - TODO look into Value-Sensitive Design
-  Friedman, B. Value-Sensitive Design: A Research Agenda for Information Technology. (Contract No: SBR-9729633). NSF, Arlington VA, 1999.
+  Friedman, B. Value-Sensitive Design: A Research Agenda for Information Technology. (Contract No: SBR-9729633). NSF, Arlington VA, 1999. [[Picked References]]
+-

@@ -8,4 +8,4 @@
 	  ![image_1666642505527_0.png](../assets/image_1666642505527_0_1666642533085_0.png)
 	  Furthermore, the authors suggest that researchers should embed adjusting for future from the envisioning stage onwards and
 	- [[card]] In my opinion adjusting a study for future uncertainties can be challenging and itself can in turn make a study invalid if our predictions of what the future would be like are disproven. And, trying to bridge the present-future gap (considerably by staging) especially in studies with participants we might threaten the believability of the context in which the tested prototype might be used so I think it's safer to leave certain future aspects as assumptions and test the prototype in a context that participants may be more familiar with. So a certain level adjustment to the present context to align with the future is alright within believable limits.
-- TODO Look into humanistic research epistomology [20,74]
+- TODO Look into humanistic research epistomology [20,74] [[Picked References]]
