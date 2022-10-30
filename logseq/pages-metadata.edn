@@ -63,10 +63,10 @@
   :block/updated-at 1666126565301}
  {:block/name "fri, 21-10-2022",
   :block/created-at 1666815331565,
-  :block/updated-at 1666839150778}
+  :block/updated-at 1667123872424}
  {:block/name "fri, 28-10-2022",
   :block/created-at 1666878512921,
-  :block/updated-at 1667033480100}
+  :block/updated-at 1667123773153}
  {:block/name "friedman & kahn 2010",
   :block/created-at 1666826356170,
   :block/updated-at 1667033595714}
@@ -123,7 +123,7 @@
   :block/updated-at 1667030811599}
  {:block/name "sun, 30-10-2022",
   :block/created-at 1667044609984,
-  :block/updated-at 1667122909670}
+  :block/updated-at 1667123757863}
  {:block/name "susanne boll",
   :block/created-at 1666646343035,
   :block/updated-at 1666646343035}
@@ -138,7 +138,7 @@
   :block/updated-at 1666815600385}
  {:block/name "thu, 27-10-2022",
   :block/created-at 1666815331516,
-  :block/updated-at 1666838497013}
+  :block/updated-at 1667123676731}
  {:block/name "todo",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -159,7 +159,7 @@
   :block/updated-at 1666815854136}
  {:block/name "wed, 26-10-2022",
   :block/created-at 1666815331543,
-  :block/updated-at 1667033572878}
+  :block/updated-at 1667123851743}
  {:block/name "weekly sync-up",
   :block/created-at 1666838446409, 
   :block/updated-at 1666839118174}]
