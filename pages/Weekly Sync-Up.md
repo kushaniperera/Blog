@@ -3,7 +3,7 @@
 	- TODO Start with the Wassom book
 	- TODO work on a demo to make Ethical implications of PAR clear
 	- Bring him (printed) papers when I'm not sure if the paper is relevant or not
-	- TODO might need to re-write the summary for [[Koelle 2020]]
+	- DONE might need to re-write the summary for [[Koelle 2020]]
 	- TODO Look into definitions of moral, ethics, laws and perceptions
 	- Don't try to narrow down the area or to exclude things just yet.
 	- TODO Read some references from [[Koelle 2020]] [[Eghbali 2019]] and [[Salovaara 2017]]
