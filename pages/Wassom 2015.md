@@ -9,6 +9,7 @@
   Chapter 1 outlines the evolution of AR with examples that readers are familiar with.
 - [[card]] **Chapter 2**
   Geofencing - "*This refers to the establishment of invisible boundaries in real space, the crossing of which triggers a digital response*"
-  The technology that enhances
+  _"The technology that enhances the touch is better known as 'haptics'."_
+-
 -
 -
