@@ -7,3 +7,4 @@
 - TODO Read on intro to ethics
 - TODO read on intro to legal aspects
 -
+-
