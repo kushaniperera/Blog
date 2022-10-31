@@ -10,7 +10,7 @@
 - [[card]] **Chapter 2**
   Geofencing - "*This refers to the establishment of invisible boundaries in real space, the crossing of which triggers a digital response*"
   _"The technology that enhances the touch is better known as 'haptics'."_
-  Aural AR: Snap Spectacles, instead of delivering in ear sounds, opts for
+  Aural AR: Snap Spectacles, instead of delivering in ear sounds, opts for bone-conduction audio, so the user remains receptive to the real-world audio simul
 -
 -
 -
