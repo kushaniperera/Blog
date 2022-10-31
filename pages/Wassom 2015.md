@@ -7,6 +7,7 @@
   citation::
 - [[card]] **Chapter 1**
   Chapter 1 outlines the evolution of AR with examples that readers are familiar with.
-- []
+- [[card]] **Chapter 2**
+  Geofencing - "This refers to the establishment of invisible boundaries in real space, the crossing of which triggers
 -
 -
