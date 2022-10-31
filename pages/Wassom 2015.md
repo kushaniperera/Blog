@@ -7,6 +7,6 @@
   citation::
 - [[card]] **Chapter 1**
   Chapter 1 outlines the evolution of AR with examples that readers are familiar with.
--
+- []
 -
 -
