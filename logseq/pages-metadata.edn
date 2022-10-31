@@ -90,7 +90,7 @@
   :block/updated-at 1666209674438}
  {:block/name "koelle 2020",
   :block/created-at 1666646138384,
-  :block/updated-at 1667033509344}
+  :block/updated-at 1667184706500}
  {:block/name "later",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -177,4 +177,4 @@
   :block/updated-at 1667123851743}
  {:block/name "weekly sync-up",
   :block/created-at 1666838446409, 
-  :block/updated-at 1666839118174}]
+  :block/updated-at 1667184690487}]
