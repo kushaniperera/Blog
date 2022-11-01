@@ -18,7 +18,7 @@
   :block/updated-at 1666128212358}
  {:block/name "azuma 2001",
   :block/created-at 1667276186946,
-  :block/updated-at 1667276330812}
+  :block/updated-at 1667277134146}
  {:block/name "b",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -174,7 +174,7 @@
   :block/updated-at 1666126565301}
  {:block/name "tue, 01-11-2022",
   :block/created-at 1667214760457,
-  :block/updated-at 1667276203449}
+  :block/updated-at 1667277213133}
  {:block/name "tue, 25-10-2022",
   :block/created-at 1666815331552,
   :block/updated-at 1666815448144}
