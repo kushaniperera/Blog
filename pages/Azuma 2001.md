@@ -1,7 +1,8 @@
 - Recent Advances in Augmented Reality
   authors:: [[Ronald Azuma]], [[Yohan Baillot]], [[Reinhold Behringer]],[[Steven Feiner]],[[Simon Julier]][[Blair MacIntyre]]
-  type:: [[Ethics]] 
-  published-year:: 2010
-  DOI:: 10.1145/354666.354694
-  citation:: Friedman, Batya & Jr, Peter. (2000). New directions: a value-sensitive design approach to augmented reality. 163-164. 10.1145/354666.354694.
+  type:: [[AR]] 
+  published-year:: 2001
+  DOI:: [10.1109/38.963459](https://doi.org/10.1109/38.963459) 
+  citation:: R. Azuma, Y. Baillot, R. Behringer, S. Feiner, S. Julier, and B. MacIntyre, “Recent advances in augmented reality,” *IEEE Comput. Graph. Appl.*, vol. 21, no. 6, pp. 34–47, Dec. 2001, doi: 10.1109/38.963459.
 -
+- [[card]] This pa
