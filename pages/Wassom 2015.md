@@ -17,6 +17,6 @@
   Thereby, certain speech shall only be unethical but not illegal. The user would in fact be rightfully allowed to convey them regardless of it being malicious or offensive.
   
   "_It [The First Amendement] explains, for example, why privacy laws cannot prevent individuals from collecting and repeating information that is freely available in public places— such as overheard sights and sounds — including by recording them_"
-  Privacy laws
+  Privacy laws do not protect a bystander from being recorded in a public place Just unethical. Making consent rather a nicety than an actual requirement.
 -
 -
