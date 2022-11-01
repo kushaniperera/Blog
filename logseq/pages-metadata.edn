@@ -16,12 +16,18 @@
  {:block/name "authors",
   :block/created-at 1666128212358,
   :block/updated-at 1666128212358}
+ {:block/name "azuma 2001",
+  :block/created-at 1667276186946,
+  :block/updated-at 1667276330812}
  {:block/name "b",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
  {:block/name "batya friedman",
   :block/created-at 1666826461821,
   :block/updated-at 1666826461821}
+ {:block/name "blair macintyre",
+  :block/created-at 1667276330808,
+  :block/updated-at 1667276330808}
  {:block/name "brian d wassom",
   :block/created-at 1667169668090,
   :block/updated-at 1667169668090}
@@ -118,15 +124,27 @@
  {:block/name "published-year",
   :block/created-at 1666128226410,
   :block/updated-at 1666128226410}
+ {:block/name "reinhold behringer",
+  :block/created-at 1667276330806,
+  :block/updated-at 1667276330806}
  {:block/name "research proposal",
   :block/created-at 1666815611891,
   :block/updated-at 1666815794399}
+ {:block/name "ronald azuma",
+  :block/created-at 1667276330805,
+  :block/updated-at 1667276330805}
  {:block/name "salovaara 2017",
   :block/created-at 1666295662408,
   :block/updated-at 1667033550694}
  {:block/name "sat, 29-10-2022",
   :block/created-at 1666963845686,
   :block/updated-at 1666963845686}
+ {:block/name "simon julier",
+  :block/created-at 1667276330807,
+  :block/updated-at 1667276330807}
+ {:block/name "steven feiner",
+  :block/created-at 1667276330807,
+  :block/updated-at 1667276330807}
  {:block/name "study design",
   :block/created-at 1666212750407,
   :block/updated-at 1666212750407}
@@ -156,7 +174,7 @@
   :block/updated-at 1666126565301}
  {:block/name "tue, 01-11-2022",
   :block/created-at 1667214760457,
-  :block/updated-at 1667261252751}
+  :block/updated-at 1667276203449}
  {:block/name "tue, 25-10-2022",
   :block/created-at 1666815331552,
   :block/updated-at 1666815448144}
@@ -179,5 +197,8 @@
   :block/created-at 1666815331543,
   :block/updated-at 1667123851743}
  {:block/name "weekly sync-up",
-  :block/created-at 1666838446409, 
-  :block/updated-at 1667184690487}]
+  :block/created-at 1666838446409,
+  :block/updated-at 1667184690487}
+ {:block/name "yohan baillot",
+  :block/created-at 1667276330806, 
+  :block/updated-at 1667276330806}]
