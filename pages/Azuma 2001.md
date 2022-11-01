@@ -10,4 +10,4 @@
   Next, Visualisation weaknesses such as data overload and rendering issues are discussed
   This section ends with discussing social acceptability especially when AR systems are cumbersome with multiple sensors and battery pack and the implied privacy issues.
   In the final section they've discussed recent AR applications in the domain.
-- [[card]] the studies surveyed aren't particularly important because they are rather dated but, the issues discussed now, 2 decades later have mostly if not all have been overcome by the new available AR devices. So the paper provides a good baseline for the evolution
+- [[card]] the studies surveyed aren't particularly important because they are rather dated but, the issues discussed now, 2 decades later have mostly if not all have been overcome by the new available AR devices. So the paper provides a good baseline for the evolution of AR technology.
