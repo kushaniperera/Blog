@@ -124,9 +124,6 @@
  {:block/name "salovaara 2017",
   :block/created-at 1666295662408,
   :block/updated-at 1667033550694}
- {:block/name "sat, 29-10-2022",
-  :block/created-at 1666963845686,
-  :block/updated-at 1666963845686}
  {:block/name "study design",
   :block/created-at 1666212750407,
   :block/updated-at 1666212750407}
@@ -156,7 +153,7 @@
   :block/updated-at 1666126565301}
  {:block/name "tue, 01-11-2022",
   :block/created-at 1667214760457,
-  :block/updated-at 1667261252751}
+  :block/updated-at 1667214760457}
  {:block/name "tue, 25-10-2022",
   :block/created-at 1666815331552,
   :block/updated-at 1666815448144}
