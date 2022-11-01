@@ -19,6 +19,6 @@
   "_It [The First Amendement] explains, for example, why privacy laws cannot prevent individuals from collecting and repeating information that is freely available in public places— such as overheard sights and sounds — including by recording them_"
   Privacy laws do not protect a bystander from being recorded in a public place Just unethical. Making consent rather a nicety than an actual requirement.
   
-  The right to be left
+  The right to be left alone protects a person from being recorded in a private space, having their private facts shared publicly and
 -
 -
