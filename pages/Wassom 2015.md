@@ -16,6 +16,6 @@
   "_As long as one's speech has any arguable connection to issues that affect the well-being or interest of more than just those involved in the conversation — what the law calls 'matters of public concern'—then the right to express that view will almost always be protected by the First Amendment. By contrast, 'matters of private concerns' are those that the law recognises as not being the legitimate business of anyone other than those directly affected by them. These– and, for the most part, only these – issues the law will protect as 'private'._"
   Thereby, certain speech shall only be unethical but not illegal. The user would in fact be rightfully allowed to convey them regardless of it being malicious or offensive.
   
-  "_It (The First Amendement]_"
+  "_It [The First Amendement] explains, for example, why privacy laws cannot prevent individuals from collecting and repeating informtion _"
 -
 -
