@@ -7,5 +7,6 @@
 -
 - [[card]] This paper has surveyed studies as a continuation from Azuma et al 1997. The paper focuses on studies in several themes; majorly, surrounding the shortfalls of AR as in 2001. The themes covered are as follows, displays; low resolution, low latency, brightness, depth perception, plane tracking, calibration, location tracking are some of those identified issues of AR displays. 
   Then the authors discuss the deficits in interfaces such as how users interact with AR systems and suggests they require to be intuitive and appropriate in terms of the application.
-  Next,
+  Next, Visualisation weaknesses such as data overload and rendering issues are discussed
+  This section ends with discussing social acceptability especially when AR systems are
 -
