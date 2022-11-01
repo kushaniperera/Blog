@@ -9,5 +9,5 @@
   Then the authors discuss the deficits in interfaces such as how users interact with AR systems and suggests they require to be intuitive and appropriate in terms of the application.
   Next, Visualisation weaknesses such as data overload and rendering issues are discussed
   This section ends with discussing social acceptability especially when AR systems are cumbersome with multiple sensors and battery pack and the implied privacy issues.
-  In the final section they
--
+  In the final section they've discussed recent AR applications in the domain.
+- [[card]] the studies surveyed aren't particularly important because they are rather dated but, the issues discussed,
