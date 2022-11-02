@@ -14,7 +14,7 @@
 -
 - [[card]] **Chapter 3: Privacy**
   
-  Suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as
+  Suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as, given the wide canvas available to display information, it can show the users which devices in his vicinity might be collecting data a
   
   
   
