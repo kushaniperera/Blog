@@ -14,6 +14,8 @@
 -
 - [[card]] **Chapter 3: Privacy**
   
+  This chapter introduces the concept of Privacy, when and where priva
+  
   Suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as, given the wide canvas available to display information, it can show the users which devices in his vicinity might be collecting data and/or what data it might be collecting.
   
   
