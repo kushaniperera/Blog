@@ -14,9 +14,9 @@
 -
 - [[card]] **Chapter 3: Privacy**
   
-  This chapter introduces the concept of Privacy, when and where privacy rights maybe applicable. The author writes about the privacy issues surveillance/ sousiveillance via wearables, IoT devices such as geotrackers, facial recognition, bio data collection will pose especially if they're used by retailer and law enforcement. Further, he points out how regul
+  This chapter introduces the concept of Privacy, when and where privacy rights maybe applicable. The author writes about the privacy issues surveillance/ sousiveillance via wearables, IoT devices such as geotrackers, facial recognition, bio data collection will pose especially if they're used by retailer and law enforcement. Further, he points out how regulators do not yet identify most of these privacy threats in terms formulating new laws, rules and regulations.
   
-  Suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as, given the wide canvas available to display information, it can show the users which devices in his vicinity might be collecting data and/or what data it might be collecting.
+  Conlcluding the chapter, he suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as, given the wide canvas available to display information, it can show the users which devices in his vicinity might be collecting data and/or what data it might be collecting.
   
   
   
