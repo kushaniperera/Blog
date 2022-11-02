@@ -17,3 +17,5 @@
   "*if users can share some aspects of VR use with the spectators in the public context, the chances of social acceptability will increase. *"
   "**Those using VR will also forget the presence of others after some moments of being immersed, even if there are lots of other people around. A finding that highlights the difference of opinion from the viewpoint of the users and spectators was how they experienced isolation: While the spectators did not like the fact that they were isolated from the user, most of the users enjoyed the sense of isolation*"
 - Takeaways: Similar to the [Regenbrecht, H., Pantidi, N., and Knott, A. (under review). To See and Be Seen—Perceived Ethics of Pervasive Augmented Reality. Submitted to ACM Conference on Human Factors in Computing Systems (ACM CHI 2023), Hamburg, Germany.] except in VR
+-
+- [[Picked References]]
