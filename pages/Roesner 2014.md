@@ -3,4 +3,6 @@
   type:: [[Legal]] 
   published-year:: 2014
   DOI:: [10.1145/2638728.2641709](http://dx.doi.org/10.1145/2638728.2641709) 
-  citation:: Friedman, Batya & Jr, Peter. (2000). New directions: a value-sensitive design approach to augmented reality. 163-164. 10.1145/354666.354694.
+  citation:: Roesner, Franziska & Denning, Tamara & Newell, Bryce & Kohno, Tadayoshi & Calo, Ryan. (2014). Augmented Reality: Hard Problems of Law and Policy. 1283-1288. 10.1145/2638728.2641709.
+-
+- [[card]] This study discusses
