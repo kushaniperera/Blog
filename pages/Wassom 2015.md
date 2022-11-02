@@ -21,6 +21,6 @@
   
   The right to be left alone protects a person from being recorded in a private space, having their private facts shared publicly and defamation through sharing facts.
   
-  On
+  On Souisveillance, the author mentions that you can sometimes forget you're wearing the recording device at all. The more inconspicu
 -
 -
