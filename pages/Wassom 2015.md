@@ -18,21 +18,7 @@
   
   Conlcluding the chapter, he suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as, given the wide canvas available to display information, it can show the users which devices in his vicinity might be collecting data and/or what data it might be collecting.
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  ---------------------------------------------------------------------------------------------------------
   
   "_As long as one's speech has any arguable connection to issues that affect the well-being or interest of more than just those involved in the conversation — what the law calls 'matters of public concern'—then the right to express that view will almost always be protected by the First Amendment. By contrast, 'matters of private concerns' are those that the law recognises as not being the legitimate business of anyone other than those directly affected by them. These– and, for the most part, only these – issues the law will protect as 'private'._"
   Thereby, certain speech shall only be unethical but not illegal. The user would in fact be rightfully allowed to convey them regardless of it being malicious or offensive.
