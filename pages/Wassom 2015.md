@@ -20,5 +20,7 @@
   Privacy laws do not protect a bystander from being recorded in a public place Just unethical. Making consent rather a nicety than an actual requirement.
   
   The right to be left alone protects a person from being recorded in a private space, having their private facts shared publicly and defamation through sharing facts.
+  
+  On
 -
 -
