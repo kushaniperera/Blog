@@ -14,7 +14,7 @@
 -
 - [[card]] **Chapter 3: Privacy**
   
-  
+  Suggests that though AR wearables might come with their own privacy issues they can also be used to solve them. Such as
   
   
   
