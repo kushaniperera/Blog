@@ -10,9 +10,6 @@
  {:block/name "ar",
   :block/created-at 1667169668094,
   :block/updated-at 1667169668094}
- {:block/name "ar-vr legal",
-  :block/created-at 1666212771152,
-  :block/updated-at 1666212771152}
  {:block/name "authors",
   :block/created-at 1666128212358,
   :block/updated-at 1666128212358}
@@ -66,7 +63,7 @@
   :block/updated-at 1666128212357}
  {:block/name "elysse dick 2021",
   :block/created-at 1666126264608,
-  :block/updated-at 1666230075827}
+  :block/updated-at 1667429144785}
  {:block/name "ethics",
   :block/created-at 1666823755737,
   :block/updated-at 1666823755737}
@@ -101,8 +98,8 @@
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
  {:block/name "legal",
-  :block/created-at 1667169668093,
-  :block/updated-at 1667169668093}
+  :block/created-at 1666212771152,
+  :block/updated-at 1666212771152}
  {:block/name "marion koelle",
   :block/created-at 1666646343034,
   :block/updated-at 1666646343034}
@@ -192,7 +189,7 @@
   :block/updated-at 1666126565301}
  {:block/name "wassom 2015",
   :block/created-at 1667169435417,
-  :block/updated-at 1667379335256}
+  :block/updated-at 1667429134774}
  {:block/name "wed, 02-11-2022",
   :block/created-at 1667301958261,
   :block/updated-at 1667338351397}
