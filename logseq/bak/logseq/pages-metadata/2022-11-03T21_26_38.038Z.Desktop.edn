@@ -10,15 +10,12 @@
  {:block/name "ar",
   :block/created-at 1667169668094,
   :block/updated-at 1667169668094}
- {:block/name "ar-vr legal",
-  :block/created-at 1666212771152,
-  :block/updated-at 1666212771152}
  {:block/name "authors",
   :block/created-at 1666128212358,
   :block/updated-at 1666128212358}
  {:block/name "azuma 2001",
-  :block/created-at 1667510540808,
-  :block/updated-at 1667510540808}
+  :block/created-at 1667276186946,
+  :block/updated-at 1667277134146}
  {:block/name "b",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -26,14 +23,14 @@
   :block/created-at 1666826461821,
   :block/updated-at 1666826461821}
  {:block/name "blair macintyre",
-  :block/created-at 1667510540763,
-  :block/updated-at 1667510540763}
+  :block/created-at 1667276330808,
+  :block/updated-at 1667276330808}
  {:block/name "brian d wassom",
   :block/created-at 1667169668090,
   :block/updated-at 1667169668090}
  {:block/name "bryce clayton newell",
-  :block/created-at 1667510543651,
-  :block/updated-at 1667510543651}
+  :block/created-at 1667432819589,
+  :block/updated-at 1667432819589}
  {:block/name "c",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
@@ -63,13 +60,13 @@
   :block/updated-at 1666126565301}
  {:block/name "eghbali 2019",
   :block/created-at 1666209443150,
-  :block/updated-at 1666643249187}
+  :block/updated-at 1667420955050}
  {:block/name "elysse dick",
   :block/created-at 1666128212357,
   :block/updated-at 1666128212357}
  {:block/name "elysse dick 2021",
   :block/created-at 1666126264608,
-  :block/updated-at 1666230075827}
+  :block/updated-at 1667429144785}
  {:block/name "ethics",
   :block/created-at 1666823755737,
   :block/updated-at 1666823755737}
@@ -77,11 +74,11 @@
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
  {:block/name "franziska roesner",
-  :block/created-at 1667510543646,
-  :block/updated-at 1667510543646}
+  :block/created-at 1667432819587,
+  :block/updated-at 1667432819587}
  {:block/name "fri, 04-11-2022",
-  :block/created-at 1667510480642,
-  :block/updated-at 1667510480642}
+  :block/created-at 1667473242385,
+  :block/updated-at 1667473242385}
  {:block/name "fri, 21-10-2022",
   :block/created-at 1666815331565,
   :block/updated-at 1667123872424}
@@ -105,13 +102,13 @@
   :block/updated-at 1666209674438}
  {:block/name "koelle 2020",
   :block/created-at 1666646138384,
-  :block/updated-at 1667184706500}
+  :block/updated-at 1667420514031}
  {:block/name "later",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
  {:block/name "legal",
-  :block/created-at 1667169668093,
-  :block/updated-at 1667169668093}
+  :block/created-at 1666212771152,
+  :block/updated-at 1666212771152}
  {:block/name "marion koelle",
   :block/created-at 1666646343034,
   :block/updated-at 1666646343034}
@@ -134,29 +131,32 @@
   :block/created-at 1666128226410,
   :block/updated-at 1666128226410}
  {:block/name "reinhold behringer",
-  :block/created-at 1667510540750,
-  :block/updated-at 1667510540750}
+  :block/created-at 1667276330806,
+  :block/updated-at 1667276330806}
  {:block/name "research proposal",
   :block/created-at 1666815611891,
   :block/updated-at 1666815794399}
  {:block/name "roesner 2014",
-  :block/created-at 1667510543682,
-  :block/updated-at 1667510543682}
+  :block/created-at 1667431413635,
+  :block/updated-at 1667434199862}
  {:block/name "ronald azuma",
-  :block/created-at 1667510540740,
-  :block/updated-at 1667510540740}
+  :block/created-at 1667276330805,
+  :block/updated-at 1667276330805}
  {:block/name "ryan calo",
-  :block/created-at 1667510543658,
-  :block/updated-at 1667510543658}
+  :block/created-at 1667432819592,
+  :block/updated-at 1667432819592}
  {:block/name "salovaara 2017",
   :block/created-at 1666295662408,
   :block/updated-at 1667033550694}
+ {:block/name "sat, 29-10-2022",
+  :block/created-at 1666963845686,
+  :block/updated-at 1666963845686}
  {:block/name "simon julier",
-  :block/created-at 1667510540757,
-  :block/updated-at 1667510540757}
+  :block/created-at 1667276330807,
+  :block/updated-at 1667276330807}
  {:block/name "steven feiner",
-  :block/created-at 1667510540754,
-  :block/updated-at 1667510540754}
+  :block/created-at 1667276330807,
+  :block/updated-at 1667276330807}
  {:block/name "study design",
   :block/created-at 1666212750407,
   :block/updated-at 1666212750407}
@@ -173,17 +173,17 @@
   :block/created-at 1666646343034,
   :block/updated-at 1666646343034}
  {:block/name "tadayoshi kohno",
-  :block/created-at 1667510543655,
-  :block/updated-at 1667510543655}
+  :block/created-at 1667432819590,
+  :block/updated-at 1667432819590}
  {:block/name "tamara denning",
-  :block/created-at 1667510543648,
-  :block/updated-at 1667510543648}
+  :block/created-at 1667432819588,
+  :block/updated-at 1667432819588}
  {:block/name "tero jokela",
   :block/created-at 1666209674438,
   :block/updated-at 1666209674438}
  {:block/name "thu, 03-11-2022",
-  :block/created-at 1667510548206,
-  :block/updated-at 1667510548206}
+  :block/created-at 1667386989158,
+  :block/updated-at 1667431413635}
  {:block/name "thu, 20-10-2022",
   :block/created-at 1666815331574,
   :block/updated-at 1666815600385}
@@ -195,7 +195,7 @@
   :block/updated-at 1666126565301}
  {:block/name "tue, 01-11-2022",
   :block/created-at 1667214760457,
-  :block/updated-at 1667261252751}
+  :block/updated-at 1667277213133}
  {:block/name "tue, 25-10-2022",
   :block/created-at 1666815331552,
   :block/updated-at 1666815448144}
@@ -210,10 +210,10 @@
   :block/updated-at 1666126565301}
  {:block/name "wassom 2015",
   :block/created-at 1667169435417,
-  :block/updated-at 1667187802784}
+  :block/updated-at 1667429134774}
  {:block/name "wed, 02-11-2022",
-  :block/created-at 1667510548891,
-  :block/updated-at 1667510548891}
+  :block/created-at 1667301958261,
+  :block/updated-at 1667338351397}
  {:block/name "wed, 19-10-2022",
   :block/created-at 1666815331583,
   :block/updated-at 1666815854136}
@@ -222,7 +222,7 @@
   :block/updated-at 1667123851743}
  {:block/name "weekly sync-up",
   :block/created-at 1666838446409,
-  :block/updated-at 1667184690487}
+  :block/updated-at 1667420135347}
  {:block/name "yohan baillot",
-  :block/created-at 1667510540745, 
-  :block/updated-at 1667510540745}]
+  :block/created-at 1667276330806, 
+  :block/updated-at 1667276330806}]
