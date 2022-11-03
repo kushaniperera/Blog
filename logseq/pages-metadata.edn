@@ -10,6 +10,9 @@
  {:block/name "ar",
   :block/created-at 1667169668094,
   :block/updated-at 1667169668094}
+ {:block/name "ar-vr legal",
+  :block/created-at 1666212771152,
+  :block/updated-at 1666212771152}
  {:block/name "authors",
   :block/created-at 1666128212358,
   :block/updated-at 1666128212358}
@@ -148,9 +151,6 @@
  {:block/name "salovaara 2017",
   :block/created-at 1666295662408,
   :block/updated-at 1667033550694}
- {:block/name "sat, 29-10-2022",
-  :block/created-at 1666963845686,
-  :block/updated-at 1666963845686}
  {:block/name "simon julier",
   :block/created-at 1667510540757,
   :block/updated-at 1667510540757}
