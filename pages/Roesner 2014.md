@@ -7,6 +7,6 @@
 -
 - [[card]] This study discusses the legal implication of AR in two sections, firstly the legal implications of input, i.e. data collection by these devices and secondly the legality behind the output, i.o.w. the information overlay.
   Under input legal aspect they discuss lack of legal protection for privacy in public places, freedom of speech, lack of laws regulating the data sharing with 3rd parties, IP law and copyright infringement when recording trademarked material and also explores the cases where AR recordings can be prohibited while protecting the First Amendment rights.
-  In terms of output issues, the authors discuss the law and how it would regulate misinformation, unfair and illegal information (inequal information distribution)
-- [[card]] not the best paper in the domain. Lacks background research and the third point about output issues was not clear. Did they mean offensive information or defamation or something else altogether?
-  But, I could
+  In terms of output issues, the authors discuss the law and how it would regulate misinformation, unfair and illegal information (inequal information distribution).
+- [[card]] not the best paper in the domain. Lacks background research and the third point about output issues was not clear. Did they mean offensive/ harmful information or defamation or something else altogether?
+  But, I could maybe try to get some ideas for a study
