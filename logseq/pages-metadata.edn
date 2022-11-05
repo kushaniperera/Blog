@@ -78,7 +78,7 @@
   :block/updated-at 1667510543646}
  {:block/name "fri, 04-11-2022",
   :block/created-at 1667510480642,
-  :block/updated-at 1667684819903}
+  :block/updated-at 1667684847933}
  {:block/name "fri, 21-10-2022",
   :block/created-at 1666815331565,
   :block/updated-at 1667123872424}
@@ -130,6 +130,9 @@
  {:block/name "picked references",
   :block/created-at 1667033509343,
   :block/updated-at 1667033509343}
+ {:block/name "plato's ethics",
+  :block/created-at 1667684847933,
+  :block/updated-at 1667684847933}
  {:block/name "pouya eghbali",
   :block/created-at 1666209674437,
   :block/updated-at 1666209674437}
@@ -195,7 +198,7 @@
   :block/updated-at 1666209674438}
  {:block/name "thu, 03-11-2022",
   :block/created-at 1667510548206,
-  :block/updated-at 1667684796578}
+  :block/updated-at 1667684863287}
  {:block/name "thu, 20-10-2022",
   :block/created-at 1666815331574,
   :block/updated-at 1666815600385}
@@ -222,7 +225,7 @@
   :block/updated-at 1666126565301}
  {:block/name "wassom 2015",
   :block/created-at 1667169435417,
-  :block/updated-at 1667187802784}
+  :block/updated-at 1667684999661}
  {:block/name "wed, 02-11-2022",
   :block/created-at 1667510548891,
   :block/updated-at 1667684742152}
