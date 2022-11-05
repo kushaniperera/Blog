@@ -30,3 +30,5 @@
 - On Souisveillance, the author mentions that you can sometimes forget you're wearing the recording device at all. The more inconspicuous a device is, the more likely it is for you to feel as if it's not there at all. There might be an ethics angle here. To explore! [[study ideas]]
 -
 - [[Picked References]] Steve Mann: Soisveillance, watch your privacy app
+-
+- [[card]] **Chapter 6: Real Propert Rights**
