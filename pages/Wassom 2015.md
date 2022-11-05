@@ -32,3 +32,8 @@
 - [[Picked References]] Steve Mann: Soisveillance, watch your privacy app
 -
 - [[card]] **Chapter 6: Real Propert Rights**
+  
+  ---------------------------------------------------------------------------------------------------------
+  
+  "... ownership of real property is the right to possess
+-
