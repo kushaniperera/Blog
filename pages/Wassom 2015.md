@@ -33,6 +33,7 @@
 -
 - [[card]] **Chapter 6: Real Propert Rights**
   
+  
   ---------------------------------------------------------------------------------------------------------
   
   "... _ownership of real property is the right to possess and exclude others from a parcel of land._"
