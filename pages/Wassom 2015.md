@@ -33,7 +33,7 @@
 -
 - [[card]] **Chapter 6: Real Propert Rights**
   
-  This chapter initially explores the real property rights and how it translates to the virtual world. Some of the conclusions reached are that: 
+  This chapter initially explores the real property rights and how it translates to the virtual world. Some of the conclusions reached are that: because an augmentation does not render the physical property occupied thereby it doesn't invoke any violation of the landowner's rights to his property. 
   
   ---------------------------------------------------------------------------------------------------------
   
