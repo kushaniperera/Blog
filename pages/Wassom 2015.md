@@ -33,6 +33,7 @@
 -
 - [[card]] **Chapter 6: Real Propert Rights**
   
+  This chapter initially explores the real property rights and how it translates to the virtual world. Some of the conclusions reached are that: 
   
   ---------------------------------------------------------------------------------------------------------
   
