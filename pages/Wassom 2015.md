@@ -41,6 +41,6 @@
   "..._property ownership is also understood to include the right of 'quiet and peaceful' enjoyment of the land._"
   "_... [with AR advertisements] No intrusion onto the physical place itself ever occurs, so the landowner's right to exclude me from his property is never triggered._", "_... unlike traditional graffiti, the art does not impinge upon the property rights of those who own the physical surfaces._"
   
-  Reminded me of what E Neely said about virtual conen
+  Reminded me of what E Neely 2018 said about virtual content, that it's not merely about the virtual content as much as it is about the juxtaposition.
 -
 - [[Picked References]] [Who owns the advertiding space in an Augmented Reality World?](https://www.porternovelli.com/intelligence/2011/06/06/who-owns-the-adverstising-space-in-an-augmented-reality-world/)
