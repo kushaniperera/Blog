@@ -2,4 +2,4 @@
   1. perceived usefulness; i.e. the extent to which the new technology will improve their performance and,
   2. perceived ease of use; i.e. how much effort is required by this technology
   
-  There have been several
+  There have been several other replications of this model such as
