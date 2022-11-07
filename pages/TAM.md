@@ -3,3 +3,5 @@
   2. perceived ease of use; i.e. how much effort is required by this technology
   
   There have been several other replications of this model such as the model by Segars and Grover that explored the additional influential factor, effectiveness.
+  
+  Some extensions of the model have also been developed such as the TAM2
