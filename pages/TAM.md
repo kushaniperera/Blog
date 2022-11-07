@@ -4,4 +4,4 @@
   
   There have been several other replications of this model such as the model by Segars and Grover that explored the additional influential factor, effectiveness.
   
-  Some extensions of the model have also been developed such as the TAM2
+  Some extensions of the model have also been developed such as the TAM2 that defines perceived usefulness and ease of use in terms of social influence and cognitive instrumental processes
