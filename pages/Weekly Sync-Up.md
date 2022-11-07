@@ -11,4 +11,5 @@
 	-
 - Mon, 07-11-2022
 	- TODO look into street. photography and GDPR
-	- TODO
+	- TODO look into existing technological prohibitions, mitigations and how they might affect PAR
+	- TODO learn about facebook/ amazon facial recognition APO
