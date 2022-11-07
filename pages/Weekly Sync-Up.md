@@ -9,4 +9,6 @@
 	- Don't try to narrow down the area or to exclude things just yet.
 	- DONE Read some references from [[Koelle 2020]] [[Eghbali 2019]] and [[Salovaara 2017]]
 	-
-- Mon, 07-11
+- Mon, 07-11-2022
+	- TODO look into street. photography and GDPR
+	- TODO
