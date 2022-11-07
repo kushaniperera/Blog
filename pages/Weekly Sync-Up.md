@@ -13,6 +13,6 @@
 	- TODO look into street. photography and GDPR
 	- TODO look into existing technological prohibitions, mitigations and how they might affect PAR
 	- TODO learn about facebook/ amazon facial recognition APIs
-	- TODO / write an index card on TAM
+	- TODO write an index card on TAM
 	-
 -
