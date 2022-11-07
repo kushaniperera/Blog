@@ -1,0 +1,1 @@
+- [[card]] The Technological Acceptance Model says
