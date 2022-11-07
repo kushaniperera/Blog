@@ -1,0 +1,231 @@
+[{:block/name "a",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "antti oulasvirta",
+  :block/created-at 1666300821760,
+  :block/updated-at 1666300821760}
+ {:block/name "antti salovaara",
+  :block/created-at 1666300821759,
+  :block/updated-at 1666300821759}
+ {:block/name "ar",
+  :block/created-at 1667169668094,
+  :block/updated-at 1667169668094}
+ {:block/name "ar-vr legal",
+  :block/created-at 1666212771152,
+  :block/updated-at 1666212771152}
+ {:block/name "authors",
+  :block/created-at 1666128212358,
+  :block/updated-at 1666128212358}
+ {:block/name "azuma 2001",
+  :block/created-at 1667510540808,
+  :block/updated-at 1667510540808}
+ {:block/name "b",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "batya friedman",
+  :block/created-at 1666826461821,
+  :block/updated-at 1666826461821}
+ {:block/name "blair macintyre",
+  :block/created-at 1667510540763,
+  :block/updated-at 1667510540763}
+ {:block/name "brian d wassom",
+  :block/created-at 1667169668090,
+  :block/updated-at 1667169668090}
+ {:block/name "bryce clayton newell",
+  :block/created-at 1667510543651,
+  :block/updated-at 1667510543651}
+ {:block/name "c",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "canceled",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "cancelled",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "card",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "citation",
+  :block/created-at 1666230044690,
+  :block/updated-at 1666230044690}
+ {:block/name "contents",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "doi",
+  :block/created-at 1666128508269,
+  :block/updated-at 1666128508269}
+ {:block/name "doing",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "done",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "eghbali 2019",
+  :block/created-at 1666209443150,
+  :block/updated-at 1666643249187}
+ {:block/name "elysse dick",
+  :block/created-at 1666128212357,
+  :block/updated-at 1666128212357}
+ {:block/name "elysse dick 2021",
+  :block/created-at 1666126264608,
+  :block/updated-at 1666230075827}
+ {:block/name "ethics",
+  :block/created-at 1666823755737,
+  :block/updated-at 1666823755737}
+ {:block/name "favorites",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "franziska roesner",
+  :block/created-at 1667510543646,
+  :block/updated-at 1667510543646}
+ {:block/name "fri, 04-11-2022",
+  :block/created-at 1667510480642,
+  :block/updated-at 1667510480642}
+ {:block/name "fri, 21-10-2022",
+  :block/created-at 1666815331565,
+  :block/updated-at 1667123872424}
+ {:block/name "fri, 28-10-2022",
+  :block/created-at 1666878512921,
+  :block/updated-at 1667123773153}
+ {:block/name "friedman & kahn 2010",
+  :block/created-at 1666826356170,
+  :block/updated-at 1667033595714}
+ {:block/name "giulio jacucci",
+  :block/created-at 1666300821760,
+  :block/updated-at 1666300821760}
+ {:block/name "home",
+  :block/created-at 1666126796226,
+  :block/updated-at 1666126874969}
+ {:block/name "in-progress",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "kaisa väänänen",
+  :block/created-at 1666209674438,
+  :block/updated-at 1666209674438}
+ {:block/name "koelle 2020",
+  :block/created-at 1666646138384,
+  :block/updated-at 1667184706500}
+ {:block/name "later",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "legal",
+  :block/created-at 1667169668093,
+  :block/updated-at 1667169668093}
+ {:block/name "marion koelle",
+  :block/created-at 1666646343034,
+  :block/updated-at 1666646343034}
+ {:block/name "mon, 07-11-2022",
+  :block/created-at 1667765241922,
+  :block/updated-at 1667765241922}
+ {:block/name "mon, 31-10-2022",
+  :block/created-at 1667127861940,
+  :block/updated-at 1667186610980}
+ {:block/name "now",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "peter h. kahn, jr.",
+  :block/created-at 1666826461822,
+  :block/updated-at 1666826461822}
+ {:block/name "picked references",
+  :block/created-at 1667033509343,
+  :block/updated-at 1667033509343}
+ {:block/name "pouya eghbali",
+  :block/created-at 1666209674437,
+  :block/updated-at 1666209674437}
+ {:block/name "published-year",
+  :block/created-at 1666128226410,
+  :block/updated-at 1666128226410}
+ {:block/name "reinhold behringer",
+  :block/created-at 1667510540750,
+  :block/updated-at 1667510540750}
+ {:block/name "research proposal",
+  :block/created-at 1666815611891,
+  :block/updated-at 1666815794399}
+ {:block/name "roesner 2014",
+  :block/created-at 1667510543682,
+  :block/updated-at 1667510543682}
+ {:block/name "ronald azuma",
+  :block/created-at 1667510540740,
+  :block/updated-at 1667510540740}
+ {:block/name "ryan calo",
+  :block/created-at 1667510543658,
+  :block/updated-at 1667510543658}
+ {:block/name "salovaara 2017",
+  :block/created-at 1666295662408,
+  :block/updated-at 1667033550694}
+ {:block/name "simon julier",
+  :block/created-at 1667510540757,
+  :block/updated-at 1667510540757}
+ {:block/name "steven feiner",
+  :block/created-at 1667510540754,
+  :block/updated-at 1667510540754}
+ {:block/name "study design",
+  :block/created-at 1666212750407,
+  :block/updated-at 1666212750407}
+ {:block/name "study ideas",
+  :block/created-at 1667029339017,
+  :block/updated-at 1667030811599}
+ {:block/name "sun, 30-10-2022",
+  :block/created-at 1667044609984,
+  :block/updated-at 1667123757863}
+ {:block/name "susanne boll",
+  :block/created-at 1666646343035,
+  :block/updated-at 1666646343035}
+ {:block/name "swamy ananthanarayan",
+  :block/created-at 1666646343034,
+  :block/updated-at 1666646343034}
+ {:block/name "tadayoshi kohno",
+  :block/created-at 1667510543655,
+  :block/updated-at 1667510543655}
+ {:block/name "tamara denning",
+  :block/created-at 1667510543648,
+  :block/updated-at 1667510543648}
+ {:block/name "tero jokela",
+  :block/created-at 1666209674438,
+  :block/updated-at 1666209674438}
+ {:block/name "thu, 03-11-2022",
+  :block/created-at 1667510548206,
+  :block/updated-at 1667510548206}
+ {:block/name "thu, 20-10-2022",
+  :block/created-at 1666815331574,
+  :block/updated-at 1666815600385}
+ {:block/name "thu, 27-10-2022",
+  :block/created-at 1666815331516,
+  :block/updated-at 1667123676731}
+ {:block/name "todo",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "tue, 01-11-2022",
+  :block/created-at 1667214760457,
+  :block/updated-at 1667261252751}
+ {:block/name "tue, 25-10-2022",
+  :block/created-at 1666815331552,
+  :block/updated-at 1666815448144}
+ {:block/name "type",
+  :block/created-at 1666212750408,
+  :block/updated-at 1666212750408}
+ {:block/name "wait",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "waiting",
+  :block/created-at 1666126565301,
+  :block/updated-at 1666126565301}
+ {:block/name "wassom 2015",
+  :block/created-at 1667169435417,
+  :block/updated-at 1667187802784}
+ {:block/name "wed, 02-11-2022",
+  :block/created-at 1667510548891,
+  :block/updated-at 1667510548891}
+ {:block/name "wed, 19-10-2022",
+  :block/created-at 1666815331583,
+  :block/updated-at 1666815854136}
+ {:block/name "wed, 26-10-2022",
+  :block/created-at 1666815331543,
+  :block/updated-at 1667123851743}
+ {:block/name "weekly sync-up",
+  :block/created-at 1666838446409,
+  :block/updated-at 1667184690487}
+ {:block/name "yohan baillot",
+  :block/created-at 1667510540745, 
+  :block/updated-at 1667510540745}]
