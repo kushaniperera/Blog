@@ -2,6 +2,7 @@
 	- Cite primary sources when using things from survey papers
 	- DONE Start with the Wassom book
 	- TODO work on a demo to make Ethical implications of PAR clear
+	  Started on it last week
 	- Bring him (printed) papers when I'm not sure if the paper is relevant or not
 	- DONE might need to re-write the summary for [[Koelle 2020]]
 	- TODO Look into definitions of moral, ethics, laws and perceptions
