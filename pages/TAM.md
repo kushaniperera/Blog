@@ -1,3 +1,5 @@
 - [[card]] The Technological Acceptance Model says that users are influenced by,
   1. perceived usefulness; i.e. the extent to which the new technology will improve their performance and,
-  2. perceived ease of use; i.e. how much effort using th
+  2. perceived ease of use; i.e. how much effort is required by this technology
+  
+  There have been several
