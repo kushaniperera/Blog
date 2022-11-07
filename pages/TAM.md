@@ -7,3 +7,4 @@
   Some extensions of the model have also been developed such as the TAM2 that defines perceived usefulness and ease of use in terms of social influence and cognitive instrumental processes
 - [https://medium.com/@rennymarcendy/technology-acceptance-model-tam-its-show-how-to-predict-users-acceptance-of-new-technology-d923ce93badc](https://medium.com/@rennymarcendy/technology-acceptance-model-tam-its-show-how-to-predict-users-acceptance-of-new-technology-d923ce93badc)
 - [https://medium.com/@collinsushi/the-technology-acceptance-model-and-attitude-tam-248772bc3d6b](https://medium.com/@collinsushi/the-technology-acceptance-model-and-attitude-tam-248772bc3d6b)
+- [https://en.wikipedia.org/wiki/Technology_acceptance_model](https://en.wikipedia.org/wiki/Technology_acceptance_model)
