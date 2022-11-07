@@ -1,1 +1,1 @@
-- [[card]] The Technological Acceptance Model says
+- [[card]] The Technological Acceptance Model says b
