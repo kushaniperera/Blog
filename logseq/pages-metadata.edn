@@ -118,6 +118,9 @@
  {:block/name "marion koelle",
   :block/created-at 1666646343034,
   :block/updated-at 1666646343034}
+ {:block/name "mon, 07-11-2022",
+  :block/created-at 1667789730516,
+  :block/updated-at 1667789809937}
  {:block/name "mon, 31-10-2022",
   :block/created-at 1667127861940,
   :block/updated-at 1667186610980}
@@ -237,7 +240,7 @@
   :block/updated-at 1667123851743}
  {:block/name "weekly sync-up",
   :block/created-at 1666838446409,
-  :block/updated-at 1667184690487}
+  :block/updated-at 1667790430677}
  {:block/name "yohan baillot",
   :block/created-at 1667510540745, 
   :block/updated-at 1667510540745}]
