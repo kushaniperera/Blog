@@ -10,9 +10,9 @@
 	- DONE Read some references from [[Koelle 2020]] [[Eghbali 2019]] and [[Salovaara 2017]]
 	-
 - Mon, 07-11-2022
-	- TODO look into street. photography and GDPR
+	- TODO look into street photography and GDPR
 	- TODO look into existing technological prohibitions, mitigations and how they might affect PAR
 	- TODO learn about facebook/ amazon facial recognition APIs
-	- TODO write an index card on TAM
+	- DONE write an index card on TAM
 	-
 -
