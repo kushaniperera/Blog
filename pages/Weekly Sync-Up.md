@@ -17,7 +17,9 @@
 	-
 - Thu, 10-11-2022
 	- Starting with holographic remoting instead of deployment would be better initially
-	- DONE look into google sketchup
 	- TODO learn an image manipulation tool like Gimp (for complex functions), NoMacs (for simpler things)
+	- TODO learn a 3D modelling tool like 3D Max (Autodesk tools), Maya or Sketchup
+		- DONE look into google sketchup
+	- Stu and Kr
 -
 -
