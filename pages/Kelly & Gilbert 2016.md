@@ -1,0 +1,1 @@
+- The WEAR Scale: Developing a Measure of the Social Acceptability of a Wearable Device
