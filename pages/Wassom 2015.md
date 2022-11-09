@@ -47,4 +47,4 @@
 -
 - [[card]] **Chapter 5: Intellectual Property**
   
-  NPE: Non-Practicing Entities are patents
+  NPE: Non-Practicing Entities are patents obtained on concepts that are not used by the owner in practice but the patent is used solely for suing people who might use it
