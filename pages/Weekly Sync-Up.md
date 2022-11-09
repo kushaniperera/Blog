@@ -15,4 +15,4 @@
 	- TODO learn about facebook/ amazon facial recognition APIs
 	- DONE write an index card on TAM
 	-
--
+- Thu, 10-11-2022
