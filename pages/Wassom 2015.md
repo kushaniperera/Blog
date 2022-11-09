@@ -46,3 +46,5 @@
 - [[Picked References]] [Who owns the advertiding space in an Augmented Reality World?](https://www.porternovelli.com/intelligence/2011/06/06/who-owns-the-adverstising-space-in-an-augmented-reality-world/)
 -
 - [[card]] **Chapter 5: Intellectual Property**
+  
+  NPE: Non-Practicing Entities are patents
