@@ -24,6 +24,7 @@
 		- Stu sent me his blog so I should probably decide if it's going to be Unreal or Unity for starters.
 		- Stu uses Unreal and Khrystina uses Unity
 	- For a demo, HR suggests user's sketching with gestures on a plane so I'll need
-		-
+		- plane tracking; already know how to get that going
+		- TODO figure out lens studio hand gestures
 -
 -
