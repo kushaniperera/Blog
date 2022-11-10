@@ -10,7 +10,8 @@
   There's a few more remaining steps to be carried out  to complete the development of the scale. Such as, the evaluation of the items to pick the most valuable items in terms of correlation between items, variance of items and the item means. Then, to determine the effectiveness of the resulting item removal via Cronbach's Alpha and to determine the construct validity.
 -
 - [[card]] will this scale still be an effective measurement of futuristic wearables, that are not yet developed? Or will user's need to have actually seen/ used the devices to evaluate them on this scale?
+  
   "_The problem in developing commercial applications for wearables is that these technologies intersect with manners, moral codes, the symbolic communication of dress, habits of dress, fashion, context of use, form, and aesthetics._"
   "_A wearable, for the purposes of developing the WEAR Scale, is a small computational device or accessory that is worn on the body in public. A wearable is personal, and personally- owned, and is at least minimally visible and comfortable. Donning a wearable requires action, which is preceded by decision-making about the social acceptability of the action and the anticipated reaction of others.
   A socially acceptable wearable is most notably marked by an absence of negative reactions or judgments from others._" #Dictionary
--
+- [[Picked References]] [2], [3],
