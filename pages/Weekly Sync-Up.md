@@ -4,10 +4,10 @@
 	- TODO work on a demo to make Ethical implications of PAR clear
 	  Started on it last week
 	- Bring him (printed) papers when I'm not sure if the paper is relevant or not
-	- DONE might need to re-write the summary for [[Koelle 2020]]
+	- DONE might need to re-write the summary for [[Koelle, Ananthanarayan & Boll 2020]]
 	- TODO Look into definitions of moral, ethics, laws and perceptions
 	- Don't try to narrow down the area or to exclude things just yet.
-	- DONE Read some references from [[Koelle 2020]] [[Eghbali 2019]] and [[Salovaara 2017]]
+	- DONE Read some references from [[Koelle, Ananthanarayan & Boll 2020]] [[Eghbali 2019]] and [[Salovaara 2017]]
 	-
 - Mon, 07-11-2022
 	- TODO look into street photography and GDPR
