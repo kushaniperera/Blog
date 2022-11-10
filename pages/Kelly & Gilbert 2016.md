@@ -1,5 +1,5 @@
 - The WEAR Scale: Developing a Measure of the Social Acceptability of a Wearable Device
-  authors:: [[Norene Kelly]] , [[Stephen Gibert]]
+  authors:: [[Norene Kelly]] , [[Stephen Gilbert]]
   type:: [[PAR]] 
   published-year:: 2016
   DOI:: [10.1145/2851581.2892331](http://dx.doi.org/10.1145/2851581.2892331) 
