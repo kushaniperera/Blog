@@ -9,4 +9,4 @@
   
   There's a few more remaining steps to be carried out  to complete the development of the scale. Such as, the evaluation of the items to pick the most valuable items in terms of correlation between items, variance of items and the item means. Then, to determine the effectiveness of the resulting item removal via Cronbach's Alpha and to determine the construct validity.
 -
-- [[card]] will this scale still be an effective measurement of futuristic wearables, that are not yet developed? Or will
+- [[card]] will this scale still be an effective measurement of futuristic wearables, that are not yet developed? Or will user's need to have actually seen/ used the devices to evaluate them on this scale?
