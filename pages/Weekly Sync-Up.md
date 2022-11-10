@@ -1,12 +1,8 @@
 - Thu, 27-10-2022
 	- Cite primary sources when using things from survey papers
 	- DONE Start with the Wassom book
-	- DOING work on a demo to make Ethical implications of PAR clear
-	  :LOGBOOK:
-	  CLOCK: [2022-11-10 Thu 13:45:43]
-	  :END:
+	- TODO work on a demo to make Ethical implications of PAR clear
 	  Started on it last week
-		- HR re
 	- Bring him (printed) papers when I'm not sure if the paper is relevant or not
 	- DONE might need to re-write the summary for [[Koelle 2020]]
 	- TODO Look into definitions of moral, ethics, laws and perceptions
@@ -27,5 +23,7 @@
 	- Stu and Khrystina knows about hololens+unity+MRTK
 		- Stu sent me his blog so I should probably decide if it's going to be Unreal or Unity for starters.
 		- Stu uses Unreal and Khrystina uses Unity
+	- For a demo, HR suggests user's sketching with gestures on a plane so I'll need
+		-
 -
 -
