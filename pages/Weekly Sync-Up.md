@@ -21,5 +21,6 @@
 	- TODO learn a 3D modelling tool like 3D Max (Autodesk tools), Maya or Sketchup
 		- DONE look into google sketchup
 	- Stu and Khrystina knows about hololens+unity+MRTK
+		- Stu sent me his blog so I should probably decide if it's going to be Unreal or Unity for starters.
 -
 -
