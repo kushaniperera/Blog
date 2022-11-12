@@ -4,6 +4,12 @@
  {:block/name "alallah et al 2018",
   :block/created-at 1668250538038,
   :block/updated-at 1668250538038}
+ {:block/name "ali neshati",
+  :block/created-at 1668250612783,
+  :block/updated-at 1668250612783}
+ {:block/name "andrea bunt",
+  :block/created-at 1668250612786,
+  :block/updated-at 1668250612786}
  {:block/name "antti oulasvirta",
   :block/created-at 1666300821760,
   :block/updated-at 1666300821760}
@@ -64,9 +70,12 @@
  {:block/name "done",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
+ {:block/name "edward lank",
+  :block/created-at 1668250612785,
+  :block/updated-at 1668250612785}
  {:block/name "eghbali 2019",
   :block/created-at 1666209443150,
-  :block/updated-at 1666643249187}
+  :block/updated-at 1668250680859}
  {:block/name "elysse dick",
   :block/created-at 1666128212357,
   :block/updated-at 1666128212357}
@@ -79,6 +88,9 @@
  {:block/name "favorites",
   :block/created-at 1666126565301,
   :block/updated-at 1666126565301}
+ {:block/name "fouad alallah",
+  :block/created-at 1668250612782,
+  :block/updated-at 1668250612782}
  {:block/name "franziska roesner",
   :block/created-at 1667510543646,
   :block/updated-at 1667510543646}
@@ -127,10 +139,13 @@
   :block/updated-at 1667534186575}
  {:block/name "kelly & gilbert 2016",
   :block/created-at 1668028413302,
-  :block/updated-at 1668049019390}
+  :block/updated-at 1668250761212}
+ {:block/name "khalad hasan",
+  :block/created-at 1668250612785,
+  :block/updated-at 1668250612785}
  {:block/name "koelle, ananthanarayan & boll 2020",
   :block/created-at 1666646138384,
-  :block/updated-at 1667184706500}
+  :block/updated-at 1668250661087}
  {:block/name "koelle, wolf & boll 2018",
   :block/created-at 1667534037272,
   :block/updated-at 1667534824544}
@@ -170,6 +185,9 @@
  {:block/name "plato's ethics",
   :block/created-at 1667684847933,
   :block/updated-at 1667684847933}
+ {:block/name "pourang irani",
+  :block/created-at 1668250612787,
+  :block/updated-at 1668250612787}
  {:block/name "pouya eghbali",
   :block/created-at 1666209674437,
   :block/updated-at 1666209674437}
@@ -206,6 +224,9 @@
  {:block/name "simon julier",
   :block/created-at 1667510540757,
   :block/updated-at 1667510540757}
+ {:block/name "social acceptability",
+  :block/created-at 1668250612788,
+  :block/updated-at 1668250612788}
  {:block/name "stephen gilbert",
   :block/created-at 1668045151944,
   :block/updated-at 1668045151944}
@@ -221,6 +242,9 @@
  {:block/name "sun, 06-11-2022",
   :block/created-at 1667646157989,
   :block/updated-at 1667646157989}
+ {:block/name "sun, 13-11-2022",
+  :block/created-at 1668250804820,
+  :block/updated-at 1668250804820}
  {:block/name "sun, 30-10-2022",
   :block/created-at 1667044609984,
   :block/updated-at 1667123757863}
@@ -294,5 +318,8 @@
   :block/created-at 1666838446409,
   :block/updated-at 1668041274118}
  {:block/name "yohan baillot",
-  :block/created-at 1667510540745, 
-  :block/updated-at 1667510540745}]
+  :block/created-at 1667510540745,
+  :block/updated-at 1667510540745}
+ {:block/name "yumiko sakamoto",
+  :block/created-at 1668250612784, 
+  :block/updated-at 1668250612784}]
