@@ -19,6 +19,9 @@
  {:block/name "ar",
   :block/created-at 1667169668094,
   :block/updated-at 1667169668094}
+ {:block/name "aread",
+  :block/created-at 1668460901110,
+  :block/updated-at 1668460901110}
  {:block/name "authors",
   :block/created-at 1666128212358,
   :block/updated-at 1666128212358}
@@ -251,6 +254,10 @@
  {:block/name "social acceptability",
   :block/created-at 1668250612788,
   :block/updated-at 1668250612788}
+ {:block/name
+  "social acceptability: should ethics be part of the conversation?",
+  :block/created-at 1668460890535,
+  :block/updated-at 1668460987334}
  {:block/name "stephen gilbert",
   :block/created-at 1668045151944,
   :block/updated-at 1668045151944}
@@ -313,7 +320,7 @@
   :block/updated-at 1667941992674}
  {:block/name "tue, 15-11-2022",
   :block/created-at 1668456302041,
-  :block/updated-at 1668456359923}
+  :block/updated-at 1668460901111}
  {:block/name "tue, 25-10-2022",
   :block/created-at 1666815331552,
   :block/updated-at 1666815448144}
