@@ -1,5 +1,5 @@
 - Advantage and Misuse of Vision Augmentation – Exploring User Perceptions and Attitudes using a Zoom Prototype
-  authors:: [[Tamara Denning]] , [[Zakariya Dehlawi]], [[Tadayoshi Kohno]] 
+  authors:: [[Chloe Eghtebas]] , [[Francisco Kiss]], [[Marion Koelle]] 
   type:: [[PAR]] [[Social Acceptability]] [[Legal]] 
   published-year:: 2014
   DOI:: [10.1145/2556288.2557352](http://dx.doi.org/10.1145/2556288.2557352) 
