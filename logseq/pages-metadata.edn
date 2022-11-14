@@ -84,7 +84,7 @@
   :block/updated-at 1668250680859}
  {:block/name "eghtebas, kiss, koelle & woźniak 2021",
   :block/created-at 1668391655247,
-  :block/updated-at 1668392130610}
+  :block/updated-at 1668403805018}
  {:block/name "elysse dick",
   :block/created-at 1666128212357,
   :block/updated-at 1666128212357}
@@ -155,9 +155,6 @@
  {:block/name "kelly & gilbert 2016-uo004295",
   :block/created-at 1668391437637,
   :block/updated-at 1668391437637}
- {:block/name "keywords",
-  :block/created-at 1668392130609,
-  :block/updated-at 1668392130609}
  {:block/name "khalad hasan",
   :block/created-at 1668250612785,
   :block/updated-at 1668250612785}
@@ -218,9 +215,6 @@
  {:block/name "pouya eghbali",
   :block/created-at 1666209674437,
   :block/updated-at 1666209674437}
- {:block/name "privacy",
-  :block/created-at 1668392130605,
-  :block/updated-at 1668392130605}
  {:block/name "published-year",
   :block/created-at 1666128226410,
   :block/updated-at 1666128226410}
