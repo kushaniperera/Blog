@@ -1,0 +1,6 @@
+- The Wearer, the Device, and Its Use: Advances in Understanding the Social Acceptability of Wearables
+  authors::  [[Norene Kelly]] , [[Stephen Gilbert]]
+  type:: [[PAR]] [[Social Acceptability]] 
+  published-year:: 2016
+  DOI:: [10.1145/2851581.2892331](http://dx.doi.org/10.1145/2851581.2892331) 
+  citation:: Norene Kelly and Stephen Gilbert. 2016. The WEAR Scale: Developing a Measure of the Social Acceptability of a Wearable Device. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '16). Association for Computing Machinery, New York, NY, USA, 2864–2871. https://doi.org/10.1145/2851581.2892331
