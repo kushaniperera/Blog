@@ -1,6 +1,8 @@
 - Evaluating a Wearable Camera’s Social Acceptability In-the-Wild
   authors:: [[Marion Koelle]] , [[Torben Wallbaum]], [[Wilko Heuten]], [[Susanne Boll]] 
   type:: [[Social Acceptability]] 
-  published-year:: 2018
-  DOI:: 1 [10.1145/3173225.3173234](https://doi.org/10.1145/3173225.3173234) /
-  citation:: Marion Koelle, Katrin Wolf, and Susanne Boll. 2018. Beyond LED Status Lights - Design Requirements of Privacy Notices for Body-worn Cameras. In Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '18). Association for Computing Machinery, New York, NY, USA, 177–187. https://doi.org/10.1145/3173225.3173234
+  published-year:: 2019
+  DOI:: [10.1145/3290607.3312837](https://doi.org/10.1145/3290607.3312837) 
+  citation:: Marion Koelle, Torben Wallbaum, Wilko Heuten, and Susanne Boll. 2019. Evaluating a Wearable Camera's Social Acceptability In-the-Wild. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). Association for Computing Machinery, New York, NY, USA, Paper LBW1222, 1–6. https://doi.org/10.1145/3290607.3312837
+-
+-
