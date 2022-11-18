@@ -1,6 +1,5 @@
-- lifelogging:-you’re-wearing-a-camera?
-  
-  uthors::  [[Marion Koelle]] , [[Katrin Wolf]], [[Susanne Boll]] 
+- Lifelogging: You’re Wearing a Camera?
+  authors:: [[Marion Koelle]] , [[Katrin Wolf]], [[Susanne Boll]] 
   type:: [[Legal]] [[Social Acceptability]] 
   published-year:: 2018
   DOI:: 1 [10.1145/3173225.3173234](https://doi.org/10.1145/3173225.3173234) /
