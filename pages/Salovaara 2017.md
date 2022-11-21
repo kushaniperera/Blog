@@ -1,5 +1,5 @@
 - Evaluation of Prototypes and the Problem of Possible Futures
-- authors:: [[Antti Salovaara]], [[Antti Oulasvirta]], [[Giulio Jacucci]]
+  authors:: [[Antti Salovaara]], [[Antti Oulasvirta]], [[Giulio Jacucci]]
   type:: [[Study Design]]
   category:: [[Literature]] 
   published-year:: 2017
