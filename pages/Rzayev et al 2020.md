@@ -5,4 +5,4 @@
   DOI:: [10.1145/3419249.3420095](https://doi.org/10.1145/3419249.3420095) 
   citation:: Rufat Rzayev, Susanne Korbely, Milena Maul, Alina Schark, Valentin Schwind, and Niels Henze. 2020. Effects of Position and Alignment of Notifications on AR Glasses during Social Interaction. In Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society (NordiCHI '20). Association for Computing Machinery, New York, NY, USA, Article 30, 1–11. https://doi.org/10.1145/3419249.3420095
 -
-- [[card]] The authors study the best notification positioning for AR glasses in terms of its effect on social interactions. The authors had considered 4 position
+- [[card]] The authors study the best notification positioning for AR glasses in terms of its effect on social interactions. The authors had considered 4 positions, 1. Center of user's view, 2. Top-right of user's view, 3. Center overlaid on the observer
