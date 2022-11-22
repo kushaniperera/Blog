@@ -8,3 +8,5 @@
 -
 - [[card]] This paper outlines two studies conducted using the stereotype content model (SCM), first to assess if the perceived stereotype of a person who belongs to particular group changes when they use certain mobile devices. From this study the authors found that the devices themselves belong to a particular point in the SCM and tend to attract the users towards that point. Thus changing the perceived stereotype of the users. Second study was conducted to confirm if the devices' center would then become the its potential users' location on the SCM too and it was concluded that devices do influence humans' location in the SCM.
 - Need to learn more about SCM to truly understand this study. But, very interesting and different from the other social acceptability studies I've read so far. Especially because specific social groups and their perceptions were taken into consideration.
+-
+- [[Picked References]] [25] [30]
