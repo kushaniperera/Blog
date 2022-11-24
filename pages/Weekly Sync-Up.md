@@ -27,4 +27,5 @@
 		- plane tracking; already know how to get that going
 		- TODO figure out lens studio hand gestures
 -
--
+- Thu, 24-11-2022
+	- Start on the lens studio demo simultaneously with
