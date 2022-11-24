@@ -30,4 +30,6 @@
 - Thu, 24-11-2022
 	- Start on the lens studio demo simultaneously with Unreal
 		- [Inspiration for the demo](https://www.youtube.com/watch?v=YJg02ivYzSs)
-		- Adverts plastered on walls: can be implemented
+		- Adverts plastered on walls: can be implemented with the plane tracking + animated objects.
+		- Start with a few static textures plastered on and progress on to animations and more content.
+		-
