@@ -28,4 +28,6 @@
 		- TODO figure out lens studio hand gestures
 -
 - Thu, 24-11-2022
-	- Start on the lens studio demo simultaneously with
+	- Start on the lens studio demo simultaneously with Unreal
+		- [Inspiration for the demo](https://www.youtube.com/watch?v=YJg02ivYzSs)
+		- Adverts plastered on walls: can be implemented
