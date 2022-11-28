@@ -7,4 +7,6 @@
 - Open Lens Studio and you should see this page:
   ![image.png](../assets/image_1669674860025_0.png)
 - Click Login to my lenses, to connect your snapchat account with lens studio.
-	- When you click on the button, you will be redirected to the browser to log into your snapchat aa
+	- When you click on the button, you will be redirected to the browser to log into your snapchat account.
+	- Log in to your snapchat account with your credentials.
+	- Then, grant permission for your accoum
