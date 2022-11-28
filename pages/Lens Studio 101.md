@@ -34,4 +34,7 @@
   ![image.png](../assets/image_1669676298186_0.png)
 - Finally, click on 'Send to All Devices' to preview your lens.
 -
+- For a more detailed guide visit, /lin
+-
+-
 -
