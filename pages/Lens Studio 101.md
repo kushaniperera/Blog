@@ -22,6 +22,6 @@
 	  ![IMG_EBE8590240FF-1.jpeg](../assets/IMG_EBE8590240FF-1_1669675628063_0.jpeg){:height 223, :width 122}
 	- Then, click on 'Pair'
 	  ![IMG_C9A8F960D330-1.jpeg](../assets/IMG_C9A8F960D330-1_1669675748412_0.jpeg){:height 194, :width 103}
-	-
+	- If the pairing was successful, then the button on top-right corner of Lens Studio should've changed to 'Send to All Device
 -
 -
