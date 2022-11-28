@@ -1,3 +1,5 @@
-- Prerequisites
+- Prerequisites:
+	- Snapchat account
+	- Mobile device with an OS
 - To get started with lens Studio, firstly install Lens Studio [Link to download](https://ar.snap.com/download)
 -
