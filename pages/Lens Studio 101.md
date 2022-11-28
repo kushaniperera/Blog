@@ -26,6 +26,9 @@
 - Given that you've created a lens that will be supported on Spectacles (2021), you need to enable Spectacles (2021) as a supported device for the lens in 'Project Info'
   ![image.png](../assets/image_1669675993869_0.png)
 - Once you've checked 'Spectacles (2021)' click on 'Apply'
-- Now, the preview button should have changed to ' Send to All Devices'
+- Now, the preview button should have changed to ' Send to All Devices' with a dropdown
+  ![image.png](../assets/image_1669676093325_0.png)
+- To be able to deploy a lens to spectacles
+	- All 3 devices (PC, phone, spectacles)
 -
 -
