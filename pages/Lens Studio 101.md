@@ -5,3 +5,4 @@
 	- Pair the spectacles with the mobile snapchat account
 - To get started with lens Studio, firstly install Lens Studio [Link to download](https://ar.snap.com/download)
 - Open Lens Studio and you should see this page:
+- [Untitled.pdf](../assets/Untitled_1669674773782_0.pdf)
