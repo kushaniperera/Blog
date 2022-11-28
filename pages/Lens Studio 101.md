@@ -32,3 +32,4 @@
 	- All 3 devices (PC, phone, spectacles) need to be on the same network
 -
 -
+-
