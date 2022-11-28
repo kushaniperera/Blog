@@ -30,6 +30,8 @@
   ![image.png](../assets/image_1669676093325_0.png)
 - To be able to deploy a lens to spectacles
 	- All 3 devices (PC, phone, spectacles) need to be on the same network
--
+- Now, when you switch on the spectacles, Lens Studio logger should register that
+  ![image.png](../assets/image_1669676298186_0.png)
+- Finally, click on
 -
 -
