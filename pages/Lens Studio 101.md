@@ -1,1 +1,2 @@
-- To get started with lens Studio, firstly install Lens Studio
+- To get started with lens Studio, firstly install Lens Studio [Link to download](https://ar.snap.com/download)
+-
