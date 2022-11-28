@@ -4,4 +4,4 @@
 	- Spectacles (2021)
 	- Pair the spectacles with the mobile snapchat account
 - To get started with lens Studio, firstly install Lens Studio [Link to download](https://ar.snap.com/download)
--
+- Open Lens STui
