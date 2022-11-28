@@ -15,4 +15,5 @@
 - Once you're done creating your scene there are several options to preview it:
 	- Webcam
 	- Preview via your snapchat account on your mobile device or spectacles 2021
-- To preview via your snapchat, you have to pair your device with
+- To preview via your snapchat, you have to pair your device with Lens Studio
+	- Click on 'Preview on Snapchat' on the top-right corner
