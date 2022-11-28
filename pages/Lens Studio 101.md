@@ -29,6 +29,6 @@
 - Now, the preview button should have changed to ' Send to All Devices' with a dropdown
   ![image.png](../assets/image_1669676093325_0.png)
 - To be able to deploy a lens to spectacles
-	- All 3 devices (PC, phone, spectacles)
+	- All 3 devices (PC, phone, spectacles) need to be on the same network
 -
 -
