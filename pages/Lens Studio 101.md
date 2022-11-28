@@ -23,6 +23,6 @@
 	- Then, click on 'Pair'
 	  ![IMG_C9A8F960D330-1.jpeg](../assets/IMG_C9A8F960D330-1_1669675748412_0.jpeg){:height 194, :width 103}
 	- If the pairing was successful, then the button on top-right corner of Lens Studio should've changed to 'Send to Snapchat'
-- Given that you've created a
+- Given that you've created a lens that will be supported on Spectacles (2021), you need to enable Spectacles (2021) as a supported device for the lens in
 -
 -
