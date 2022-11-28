@@ -21,7 +21,7 @@
 	- Now scan the snapcode with snapchat on your mobile phone,
 	  ![IMG_EBE8590240FF-1.jpeg](../assets/IMG_EBE8590240FF-1_1669675628063_0.jpeg){:height 223, :width 122}
 	- Then, click on 'Pair'
-	  ![IMG_EBE8590240FF-1.jpeg](../assets/IMG_EBE8590240FF-1_1669675699840_0.jpeg){:height 212, :width 118}
+	  ![IMG_C9A8F960D330-1.jpeg](../assets/IMG_C9A8F960D330-1_1669675748412_0.jpeg){:height 194, :width 103}
 	-
 -
 -
