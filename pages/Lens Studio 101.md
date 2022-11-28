@@ -1,1 +1,1 @@
-- To get started with lens Studio, firsty
+- To get started with lens Studio, firstly install Lens Studio
