@@ -14,4 +14,4 @@
 - File > New Project and you can design your new scene (aka lens)
 - Once you're done creating your scene there are several options to preview it:
 	- Webcam
-	-
+	- Preview with your snapchat mobile device
