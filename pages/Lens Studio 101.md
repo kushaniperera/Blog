@@ -19,4 +19,5 @@
 	- Click on 'Preview on Snapchat' on the top-right corner
 	  ![image.png](../assets/image_1669675447230_0.png)
 	- Now scan the snapcode with snapchat on your mobile phone,
+	  ![IMG_EBE8590240FF-1.jpeg](../assets/IMG_EBE8590240FF-1_1669675628063_0.jpeg)
 	-
