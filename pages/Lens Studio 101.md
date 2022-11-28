@@ -17,3 +17,6 @@
 	- Preview via your snapchat account on your mobile device or spectacles 2021
 - To preview via your snapchat, you have to pair your device with Lens Studio
 	- Click on 'Preview on Snapchat' on the top-right corner
+	  ![image.png](../assets/image_1669675447230_0.png)
+	- Now scan the snapcode with snapchat on your mobile phone,
+	-
