@@ -11,4 +11,7 @@
 	- Log in to your snapchat account with your credentials.
 	- Then, grant permission for your account to be connected with Lens Studio and your Lens Studio should look something like this,
 	  ![image.png](../assets/image_1669675146348_0.png)
-- File > New Project and you can design your new scene.
+- File > New Project and you can design your new scene (aka lens)
+- Once you're done creating your scene there are several options to preview it:
+	- Webcam
+	-
