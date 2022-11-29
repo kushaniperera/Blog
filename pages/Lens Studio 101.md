@@ -1,3 +1,5 @@
+- IMPORTANT
+	- As at 29-11-2022, Spectacles currently only support Lenses created in Lens Studio 4.28.1 or earlier. You can download 4.28.1 from [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Far.snap.com%2Fdownload%2Fv4-28-1&data=05%7C01%7Ckushani.perera%40postgrad.otago.ac.nz%7C91c2aeef38514049002a08dad1a3c1e3%7C0225efc578fe4928b1579ef24809e9ba%7C0%7C0%7C638052798520613891%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dTcnlC8dE0xw1R85VzgK6OwaNl0WwRD097Fvn4KXhsQ%3D&reserved=0).
 - Prerequisites:
 	- Snapchat account
 	- Mobile device with an OS over 12.08.0 +
