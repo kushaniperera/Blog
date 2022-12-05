@@ -1,7 +1,9 @@
 - Anticipated User Stereotypes Systematically Affect the Social Acceptability of Mobile Devices
-  authors:: [[Valentin Schwind]] [[Niklas Deierlein]] [[Romina Poguntke]] [[Niels Henze]]
+  authors:: [[Valentin Schwind]] [[Niels Henze]]
   type:: [[Social Acceptability]]
   category:: [[Literature]] 
-  published-year:: 2019
-  DOI:: [10.1145/3290605.3300591](https://doi.org/10.1145/3290605.3300591) 
-  citation:: Valentin Schwind, Niklas Deierlein, Romina Poguntke, and Niels Henze. 2019. Understanding the Social Acceptability of Mobile Devices using the Stereotype Content Model. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 361, 1–12. https://doi.org/10.1145/3290605.3300591
+  published-year:: 2020
+  DOI:: [10.1145/3419249.3420113](https://doi.org/10.1145/3419249.3420113) 
+  citation:: Valentin Schwind and Niels Henze. 2020. Anticipated User Stereotypes Systematically Affect the Social Acceptability of Mobile Devices. In Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society (NordiCHI '20). Association for Computing Machinery, New York, NY, USA, Article 13, 1–12. https://doi.org/10.1145/3419249.3420113
+-
+- [[card]]
