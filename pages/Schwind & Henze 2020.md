@@ -1,4 +1,4 @@
-- Anticipated User 
+- Anticipated User Stereotypes Systematically Affect the Social Acceptability of Mobile Devices
   authors:: [[Valentin Schwind]] [[Niklas Deierlein]] [[Romina Poguntke]] [[Niels Henze]]
   type:: [[Social Acceptability]]
   category:: [[Literature]] 
