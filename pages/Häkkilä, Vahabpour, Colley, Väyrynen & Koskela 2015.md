@@ -1,6 +1,6 @@
 - Design Probes Study on User Perceptions of a Smart Glass Concept
   authors:: [[Jonna Häkkilä]], [[Farnaz Vahabpour]], [[Ashley Colley]], [[Jani Väyrynen]], [[Timo Koskela]]
-  type:: [[Study Design]] [[Social Acceptability]]
+  type:: [[Study Design]] [[Social Acceptability]] [[PAR]] 
   category:: [[Literature]]  
   published-year:: 2015
   DOI:: [10.1145/2836041.2836064](http://dx.doi.org/10.1145/2836041.2836064) 
