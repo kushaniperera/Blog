@@ -48,7 +48,7 @@
   
   This chapter focuses on two perspectives,
   
-  1. AR glasses as digital ethical-guide, helping users navigate through ethical dilemmas. The author argues that this application would infact make the individual weaker as an ethical and morally conscious human being because he will then lack the practice of making ethical decisions. Because the device will make these decisions for him. Another
+  1. AR glasses as digital ethical-guide, helping users navigate through ethical dilemmas. The author argues that this application would infact make the individual weaker as an ethical and morally conscious human being because he will then lack the practice of making ethical decisions. Because the device will make these decisions for him. Another concern was, this application will make it more effective in profiling an individual by deducing his moral and ethical
 -
 -
 - [[Picked References]] [Who owns the advertiding space in an Augmented Reality World?](https://www.porternovelli.com/intelligence/2011/06/06/who-owns-the-adverstising-space-in-an-augmented-reality-world/)
