@@ -45,6 +45,10 @@
   Reminded me of what E Neely 2018 said about virtual content, that it's not merely about the virtual content as much as it is about the juxtaposition.
 -
 - [[card]] **Chapter 12: Personal Ethics**
+  
+  This chapter focuses on two perspectives,
+  
+  1. AR glasses as digital ethical-guide
 -
 -
 - [[Picked References]] [Who owns the advertiding space in an Augmented Reality World?](https://www.porternovelli.com/intelligence/2011/06/06/who-owns-the-adverstising-space-in-an-augmented-reality-world/)
