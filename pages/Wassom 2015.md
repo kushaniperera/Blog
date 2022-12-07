@@ -52,9 +52,11 @@
   NPE: Non-Practicing Entities are patents obtained on concepts that are not used by the owner in practice but the patent is used solely for suing people who might use it.
 - [[card]] **Chapter 12: Personal Ethics**
   
-  This chapter focuses on two perspectives,
+  This chapter focuses on three perspectives,
   
   1. AR glasses as digital ethical-guide, helping users navigate through ethical dilemmas. The author argues that this application would infact make the individual weaker as an ethical and morally conscious human being because he will then lack the practice of making ethical decisions. Because the device will make these decisions for him. Another concern was, this application will make it more effective in profiling an individual by deducing his moral and ethical characteristics.
   
   2. Unfair power over non-users. AR glasses will enable users to have certain knowledge on-hand that non-users wont be privy too. Hence making the users being able to manipulate non-users with this knowledge. 
   "_If, on the other hand, such a profound imbalance of power really is inherent to the augmented medium, then the industry has an altogether different problem. In that case, the best hope for introducing AR in a socially healthy way is to do so cautiously, with plenty of safeguards built in to both AR devices and AR networks to ensure users cannot gain an undue amount of leverage over unsuspecting individuals—for the benefit of those users who could otherwise be ethically corrupted by the devices' power as much as for those who could be hurt by their actions_" page 304
+  
+  3. AR games and the conditioning. Repeated playing of (violent) AR games
