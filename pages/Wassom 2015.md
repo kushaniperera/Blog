@@ -44,6 +44,12 @@
   
   Reminded me of what E Neely 2018 said about virtual content, that it's not merely about the virtual content as much as it is about the juxtaposition.
 -
+-
+- [[Picked References]] [Who owns the advertiding space in an Augmented Reality World?](https://www.porternovelli.com/intelligence/2011/06/06/who-owns-the-adverstising-space-in-an-augmented-reality-world/)
+-
+- [[card]] **Chapter 5: Intellectual Property**
+  
+  NPE: Non-Practicing Entities are patents obtained on concepts that are not used by the owner in practice but the patent is used solely for suing people who might use it.
 - [[card]] **Chapter 12: Personal Ethics**
   
   This chapter focuses on two perspectives,
@@ -52,10 +58,3 @@
   
   2. Unfair power over non-users. AR glasses will enable users to have certain knowledge on-hand that non-users wont be privy too. Hence making the users being able to manipulate non-users with this knowledge. 
   "_If, on the other hand, such a profound imbalance of power really is inherent to the augmented medium, then the industry has an altogether different problem. In that case, the best hope for introducing AR in a socially healthy way is to do so cautiously, with plenty of safeguards built in to both AR devices and AR networks to ensure users cannot gain an undue amount of leverage over unsuspecting individuals—for the benefit of those users who could otherwise be ethically corrupted by the devices' power as much as for those who could be hurt by their actions_" page 304
--
--
-- [[Picked References]] [Who owns the advertiding space in an Augmented Reality World?](https://www.porternovelli.com/intelligence/2011/06/06/who-owns-the-adverstising-space-in-an-augmented-reality-world/)
--
-- [[card]] **Chapter 5: Intellectual Property**
-  
-  NPE: Non-Practicing Entities are patents obtained on concepts that are not used by the owner in practice but the patent is used solely for suing people who might use it.
