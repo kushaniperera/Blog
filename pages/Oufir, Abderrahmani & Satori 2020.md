@@ -1,7 +1,10 @@
 - ARKit and ARCore in serve to augmented reality
-  authors::   [[Norene Kelly]] , [[Stephen Gilbert]]
-  type:: [[Social Acceptability]]
+  authors::   [[Zainab Oufqir]] [[Abdellatif El Abderrahmani]] [[Khalid Satori]]
+  type:: [[Other]]
   category:: [[Literature]]  
-  published-year:: 2018
-  DOI:: [10.1177/1541931218621237](https://doi.org/10.1177/1541931218621237) 
-  citation:: Kelly, N., & Gilbert, S. B. (2018). The Wearer, the Device, and Its Use: Advances in Understanding the Social Acceptability of Wearables. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 62(1), 1027–1031. https://doi.org/10.1177/1541931218621237
+  published-year:: 2020
+  DOI:: [10.1109/ISCV49265.2020.9204243](https://doi.org/10.1109/ISCV49265.2020.9204243) 
+  citation:: Z. Oufqir, A. El Abderrahmani and K. Satori, "ARKit and ARCore in serve to augmented reality," 2020 International Conference on Intelligent Systems and Computer Vision (ISCV), 2020, pp. 1-7, doi: 10.1109/ISCV49265.2020.9204243.
+-
+- [[card]] This paper
+-
