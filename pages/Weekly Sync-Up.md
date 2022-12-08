@@ -1,7 +1,7 @@
 - Thu, 27-10-2022
 	- Cite primary sources when using things from survey papers
 	- DONE Start with the Wassom book
-	- TODO work on a demo to make Ethical implications of PAR clear
+	- DONE work on a demo to make Ethical implications of PAR clear
 	  Started on it last week
 	- Bring him (printed) papers when I'm not sure if the paper is relevant or not
 	- DONE might need to re-write the summary for [[Koelle, Ananthanarayan & Boll 2020]]
@@ -18,7 +18,7 @@
 - Thu, 10-11-2022
 	- Starting with holographic remoting instead of deployment would be better initially
 	- TODO learn an image manipulation tool like Gimp (for complex functions), NoMacs (for simpler things)
-	- TODO learn a 3D modelling tool like 3D Max (Autodesk tools), Maya or Sketchup
+	- DONE learn a 3D modelling tool like 3D Max (Autodesk tools), Maya or Sketchup
 		- DONE look into google sketchup
 	- Stu and Khrystina knows about hololens+unity+MRTK
 		- Stu sent me his blog so I should probably decide if it's going to be Unreal or Unity for starters.
