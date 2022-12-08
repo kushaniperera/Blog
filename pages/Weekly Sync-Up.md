@@ -43,5 +43,6 @@
 		- thought provoking content like tobacco, political posters
 	- TODO make a recording of the demo running on the specs
 		- Jonathan's done it before should be able to help.
+		- point grey camera
 		-
 -
