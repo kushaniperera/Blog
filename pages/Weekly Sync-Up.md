@@ -41,5 +41,6 @@
 - Thu, 8-12-2022
 	- TODO Should add a lot more adverts
 		- thought provoking content like tobacco, political posters
-	- TODO make a recording of the de
+	- TODO make a recording of the demo running on the specs
+		- Jonathan's done it before should be able to help.
 -
