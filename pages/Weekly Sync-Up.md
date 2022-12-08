@@ -35,4 +35,6 @@
 		- Could be a first milestone.
 -
 - Fri, 2-12-2022
+	- About the demo,
+		- Gave the Atea project poster for a marker
 	-
