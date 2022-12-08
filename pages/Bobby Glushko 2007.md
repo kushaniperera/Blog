@@ -1,4 +1,4 @@
-- Tales of the Virtual)
+- Tales of the (Virtual) City: Governing Property Disputes in Virtual World
   authors:: [[Pouya Eghbali]], [[Kaisa Väänänen]], [[Tero Jokela]]
   type:: [[Study Design]] [[Social Acceptability]]
   category:: [[Literature]]  
