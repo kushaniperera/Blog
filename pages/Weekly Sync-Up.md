@@ -37,4 +37,7 @@
 - Fri, 2-12-2022
 	- About the demo,
 		- Gave the Atea project poster for a marker
-	-
+-
+- Thu, 8-12-2022
+	- TODO Should add a lot more adverts
+-
