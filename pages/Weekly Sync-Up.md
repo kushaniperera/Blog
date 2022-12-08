@@ -34,4 +34,5 @@
 		- Start with a few static textures plastered on and progress on to animations and more content.
 		- Could be a first milestone.
 -
-- Fri,
+- Fri, 2-12-2022
+	-
