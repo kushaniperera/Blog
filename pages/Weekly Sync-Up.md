@@ -24,7 +24,7 @@
 		- Stu sent me his blog so I should probably decide if it's going to be Unreal or Unity for starters.
 		- Stu uses Unreal and Khrystina uses Unity
 	- For a demo, HR suggests user's sketching with gestures on a plane so I'll need
-		- plane tracking; already know how to get that going
+		- plane tracking
 		- TODO figure out lens studio hand gestures
 -
 - Thu, 24-11-2022
@@ -33,3 +33,5 @@
 		- Adverts plastered on walls: can be implemented with the plane tracking + animated objects.
 		- Start with a few static textures plastered on and progress on to animations and more content.
 		- Could be a first milestone.
+-
+- Fri,
