@@ -17,5 +17,3 @@
 - Given that AR emphasizes visual augmentation, a main target for adaption is an adapted graphical representation of the content.
 - Most of these systems are aware of personal context factors or environment factors to apply changes to the displayed content.
 - As a first step, they propose to determine body posture and to analyze the user’s environment. Both together are used as input to machine learning algorithms to derive knowledge about the situation and intentions of the user.
--
--
