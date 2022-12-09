@@ -8,15 +8,15 @@
 - Pervasive AR systems tightly integrate computing, display, sensing, networking, and user interaction technology
 - Instead of using and controlling dedicated apps for different purposes as with AR glasses, Pervasive AR aims to integrate relevant user interface elements into the current spatial and temporal context of the user in a continuous, adaptive, and omnipresent way. Pervasive AR glasses are intended to be worn constantly to assist with a coherent and meaningful merging of real and virtual reality at the right time and at the right place.
 - The more regularly an augmentation is presented to a user, the more they will adapt to it and incorporate it behaviourally: studies of perceptual plasticity demonstrate this point
-  "The system emulated a pervasive AR system of the future by using state-of-the art 
+- The system emulated a pervasive AR system of the future by using state-of-the art 
   AR glasses and, after initial setup, a user interface which did not require any manual interaction by the user. Users were able to walk freely around and get context-adaptive augmentations without the need for active intervention or control."
-  our PAR users were quite aware of the (potential) capture of behaviour data (DataAware), and were neutral to negative about whether this data capture would be ethically acceptable (DataAccept). While no behaviour data capture actually happened in our experiment, participants might well have assumed it was happening, because of the (mocked-up) ‘personal data’ augmented on top of the lanyard persona cards.
-  Ratings given for potentially breached privacy (PrivacyAware) and potential concerns about those breaches (PrivacyConcern) were quite low.
-  the bystanders found it rather awkward how the PAR users looked (and behaved) (Awkward). But they were inconclusive as to whether this would be considered as normal (Normal).
-  glasses seemed to be appropriate (Appropriate) and certainly not considered as rude (Rude)
-  neither felt comfortable nor uncomfortable to watch PAR users using the glasses, but people would feel distracted by people wearing PAR glasses in public (Distracting).
-  This resulted in split groupings of only PAR users or only bystanders coming together to look and discuss the paintings or the information revealed by the glasses. It also engendered feelings of missing out (for the bystanders) and uncomfortable privilege
-  "Having to stare, instead of an easy quick glance, and having access to personal information about someone, without them knowing, created significant social awkwardness and made especially PAR users self-conscious.
+- our PAR users were quite aware of the (potential) capture of behaviour data (DataAware), and were neutral to negative about whether this data capture would be ethically acceptable (DataAccept). While no behaviour data capture actually happened in our experiment, participants might well have assumed it was happening, because of the (mocked-up) ‘personal data’ augmented on top of the lanyard persona cards.
+- Ratings given for potentially breached privacy (PrivacyAware) and potential concerns about those breaches (PrivacyConcern) were quite low.
+- the bystanders found it rather awkward how the PAR users looked (and behaved) (Awkward). But they were inconclusive as to whether this would be considered as normal (Normal).
+- glasses seemed to be appropriate (Appropriate) and certainly not considered as rude (Rude)
+- neither felt comfortable nor uncomfortable to watch PAR users using the glasses, but people would feel distracted by people wearing PAR glasses in public (Distracting).
+- This resulted in split groupings of only PAR users or only bystanders coming together to look and discuss the paintings or the information revealed by the glasses. It also engendered feelings of missing out (for the bystanders) and uncomfortable privilege
+- Having to stare, instead of an easy quick glance, and having access to personal information about someone, without them knowing, created significant social awkwardness and made especially PAR users self-conscious.
 - Bystanders were seen to be equally uncomfortable, and were often frustrated, especially when they felt that not all information was communicated to them."
   Participants felt the PAR glasses had the potential to cause divisions in society through the asymmetry of access to information, social status and disconnect from reality
   PAR glasses were seen as pervading all aspects of everyday life, from work opportunities to participation to social and fun activities. Interestingly, the option to ’opt out’ was not perceived as a viable one which made the exclusionary effect even more problematic.
