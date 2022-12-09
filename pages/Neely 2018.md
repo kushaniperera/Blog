@@ -17,12 +17,13 @@
   (2015) that in such cases one person’s augmentation is unlikely to prevent augmentation from another; since there are multiple ways to create and access the augmentations, there is much more space for multiple augmentations."
 - If a popular augmentation is interfering with the intended use of the space then the owner is
   being harmed."
-  it is not the content per se but the juxtaposition of the content and location.
-- In this way, augmented reality is not completely like a web page, even in the case with multiple platforms, because the need to tie the virtual content to a specific physical place will sometimes require us to consider whether the juxtaposition is itself ethical. 
-  The case of augmenting private property, therefore, seems to turn on how AR technology is implemented
-  Just as a person has rights over their physical property, so too should they have rights over augmentations to that property.
-  "Public property:
-- Issues about privacy violations seem less likely to occur, given the public nature of the space, and there would be plenty of room for multiple augmentations."
+- it is not the content per se but the juxtaposition of the content and location.
+- In this way, augmented reality is not completely like a web page, even in the case with multiple platforms, because the need to tie the virtual content to a specific physical place will sometimes require us to consider whether the juxtaposition is itself ethical.
+- The case of augmenting private property, therefore, seems to turn on how AR technology is implemented
+- Just as a person has rights over their physical property, so too should they have rights over augmentations to that property.
+- Public property:
+  
+  Issues about privacy violations seem less likely to occur, given the public nature of the space, and there would be plenty of room for multiple augmentations."
   The state does not have the right to choose the topics of conversation within its public places. The fact that some of those conversations are virtual in nature would be irrelevant; the state cannot ethically choose the topic of your texts from a public location either.
   On the other hand, if we see augmentation as graffiti albeit frequently helpful or interesting graffiti—then it seems more within the state’s purview to control.
   "There’s also an interesting question about whether there might be good reason to prevent augmentation of a particular space even if the augmentation itself is not problematic. For instance, perhaps a piece of public art should be experienced as it is, rather than having people
