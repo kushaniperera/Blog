@@ -25,13 +25,13 @@
   Third, they suggest there is a need for strong property rights to accommodate the existing market for virtual property, which encompasses thousands of dollars of virtual property available for sale at any given time with a variety of resellers"
 - "since there is a real value to the property, people believe that they own the property, and people work to create the property, it is more fair to have ownership vest in the creator of the property than in the hands of the developers of the virtual
    worlds"
-  "This freedom to alter the terms of the EULA at any time allows the software developer to potentially change the terms of the contract
+- "This freedom to alter the terms of the EULA at any time allows the software developer to potentially change the terms of the contract
    every time the purchaser runs the program, with the only “assent” required 
   being the player’s continued use of the program"
-  because EULAs potentially immunize developers from liability, grant developers sole discretion over enforcement, and do not require meaningful agreement from players, conflicts arise between players and the game developers particularly where virtual property is involved.
-  In particular, EULAs fail to adequately protect player interests, permit inconsistent enforcement, anddo not conform to player expectations about their rights.
+- because EULAs potentially immunize developers from liability, grant developers sole discretion over enforcement, and do not require meaningful agreement from players, conflicts arise between players and the game developers particularly where virtual property is involved.
+- In particular, EULAs fail to adequately protect player interests, permit inconsistent enforcement, anddo not conform to player expectations about their rights.
   As one might expect, the developer-drafted EULAs generally protect developer interests over player interests.
-  As one might expect, the developer-drafted EULAs generally protect developer interests over player interests.
-  "EULAs should be drafted substantively better: they should meet player expectations regarding their rights to virtual property and game developers should not be able to escape liability for injuries caused by their actions by placing clauses in their EULAs 
+- As one might expect, the developer-drafted EULAs generally protect developer interests over player interests.
+- "EULAs should be drafted substantively better: they should meet player expectations regarding their rights to virtual property and game developers should not be able to escape liability for injuries caused by their actions by placing clauses in their EULAs 
   immunizing them from liability."
-  As argued above, virtual worlds possess many differences from other types of software or games. These differences are important, because if players are investing substantial sums of money into virtual worlds, they will need greater protections than those provided by most EULAs.
+- As argued above, virtual worlds possess many differences from other types of software or games. These differences are important, because if players are investing substantial sums of money into virtual worlds, they will need greater protections than those provided by most EULAs.
