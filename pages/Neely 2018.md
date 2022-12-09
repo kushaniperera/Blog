@@ -5,19 +5,17 @@
   published-year:: 2018
   DOI:: [10.1007/s10676-018-9484-2](https://doi.org/10.1007/s10676-018-9484-2) 
   citation:: Neely, E.L. Augmented reality, augmented ethics: who has the right to augment a particular physical space?. *Ethics Inf Technol* **21**, 11–18 (2019). https://doi.org/10.1007/s10676-018-9484-2
-- different technologies do not necessarily integrate well with each other—we are currently limited to a large degree by the particularapplications or technologies we are using to access
-  the augmented world. In the future, however, a much more
-  seamless experience might be possible."
-  With any new technology, we need to ask both how it can be used and who is permitted to use it.
-  both how the technology develops and what sort of space we are considering will be relevant in determining whether a person is permitted to augment a particular space.
-  the very nature of augmented reality complicates the notion of rights because it is not clear how to translate them into augmented space; the rights we have recognized in physical space and virtual space do not entirely line up
-  the “space” (whether physical or virtual) is something you can ethically restrict the use of.
-  the ontology of augmented reality complicates matter. Virtual property or objects of the sort legal cases are concerned with exist within a virtual world which must be entered; it thus has a separation from the physical world.
-  While a webpage or blog has a specific address, and in that sense has a location of a sort, again it is not strongly tied to a physical place. Moreover, in general the virtual location could be changed without diminishing its content—it needs an address so that people can locate the content, but its content does not depend on that address
-  I may allow other people to place certain kinds of temporary signs—if my house is on the corner of two streets, someone else may place a sign with an arrow to their yard sale on my lot—but they generally stay only because I choose to allow them; if I needed to remove them in order to have work completed (or even because I am supremely grumpy) that would be ethically acceptable
-  "It is somewhat less clear how to deal with the case of private property if the augmentation occurs over multiple apps rather than in a single sphere. I tend to agree with Wassom
+- different technologies do not necessarily integrate well with each other—we are currently limited to a large degree by the particular applications or technologies we are using to access the augmented world. In the future, however, a much more  seamless experience might be possible."
+- With any new technology, we need to ask both how it can be used and who is permitted to use it.
+- both how the technology develops and what sort of space we are considering will be relevant in determining whether a person is permitted to augment a particular space.
+- the very nature of augmented reality complicates the notion of rights because it is not clear how to translate them into augmented space; the rights we have recognized in physical space and virtual space do not entirely line up
+- the “space” (whether physical or virtual) is something you can ethically restrict the use of.
+- the ontology of augmented reality complicates matter. Virtual property or objects of the sort legal cases are concerned with exist within a virtual world which must be entered; it thus has a separation from the physical world.
+- While a webpage or blog has a specific address, and in that sense has a location of a sort, again it is not strongly tied to a physical place. Moreover, in general the virtual location could be changed without diminishing its content—it needs an address so that people can locate the content, but its content does not depend on that address
+- I may allow other people to place certain kinds of temporary signs—if my house is on the corner of two streets, someone else may place a sign with an arrow to their yard sale on my lot—but they generally stay only because I choose to allow them; if I needed to remove them in order to have work completed (or even because I am supremely grumpy) that would be ethically acceptable
+- It is somewhat less clear how to deal with the case of private property if the augmentation occurs over multiple apps rather than in a single sphere. I tend to agree with Wassom
   (2015) that in such cases one person’s augmentation is unlikely to prevent augmentation from another; since there are multiple ways to create and access the augmentations, there is much more space for multiple augmentations."
-  "If a popular augmentation is interfering with the intended use of the space then the owner is
+- If a popular augmentation is interfering with the intended use of the space then the owner is
   being harmed."
   it is not the content per se but the juxtaposition of the content and location.
 - In this way, augmented reality is not completely like a web page, even in the case with multiple platforms, because the need to tie the virtual content to a specific physical place will sometimes require us to consider whether the juxtaposition is itself ethical. 
