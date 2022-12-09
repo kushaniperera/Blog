@@ -1,4 +1,4 @@
-- Pervasive Augmented Reality— Technology and 
+- Pervasive Augmented Reality— Technology and Ethics
   authors:: [[Franziska Roesner]] [[Tadayoshi Kohno]] [[David Molnar]]
   type:: [[Legal]] 
   category:: [[Literature]]  
