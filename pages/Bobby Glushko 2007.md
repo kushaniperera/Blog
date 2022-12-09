@@ -16,14 +16,14 @@
   preventing players from predicting what they can or can not do and endangering
   player investments in time and money.
 - as players spend more time in them, they tend to develop meaningful relationships with the world, their avatar, and other players
-  Sales of virtual property break down into three categories: sales of “gold,” or whatever currency the world uses; sales of items, such as weapons, clothing, or even houses and land; and sales of accounts, that is, the password and login information to play a specific avatar.
-  Like physical property, virtual property is persistent, interconnected, and rivalrous. Virtual property does not disappear when the player turns off her computer, much like a house does not simply disappear when its owner leaves for work. Within the virtual world an object can interact with other objects. A player can restrict access by others to a piece of virtual property like how a real property owner can physically and/or legally exclude others from accessing their land.
-  And although simple computer code itself can easily be replicated, virtual property is nearly always treated as a rivalrous commodity.
-  developers almost universally retain the right to cease maintaining and running their virtual worlds. ...the continued existence of the property is dependent on the developer’s actions
-  "First, they invoke the Lockean conception of property rights, arguing that the substantial investment players put into creating virtual property grants some moral rights to it.
+- Sales of virtual property break down into three categories: sales of “gold,” or whatever currency the world uses; sales of items, such as weapons, clothing, or even houses and land; and sales of accounts, that is, the password and login information to play a specific avatar.
+- Like physical property, virtual property is persistent, interconnected, and rivalrous. Virtual property does not disappear when the player turns off her computer, much like a house does not simply disappear when its owner leaves for work. Within the virtual world an object can interact with other objects. A player can restrict access by others to a piece of virtual property like how a real property owner can physically and/or legally exclude others from accessing their land.
+- And although simple computer code itself can easily be replicated, virtual property is nearly always treated as a rivalrous commodity.
+- developers almost universally retain the right to cease maintaining and running their virtual worlds. ...the continued existence of the property is dependent on the developer’s actions
+- "First, they invoke the Lockean conception of property rights, arguing that the substantial investment players put into creating virtual property grants some moral rights to it.
   Second, they argue that players believe that virtual property belongs to them, and that belief puts normative pressure on the law to respect that property interest
   Third, they suggest there is a need for strong property rights to accommodate the existing market for virtual property, which encompasses thousands of dollars of virtual property available for sale at any given time with a variety of resellers"
-  "since there is a real value to the property, people believe that they own the property, and people work to create the property, it is more fair to have ownership vest in the creator of the property than in the hands of the developers of the virtual
+- "since there is a real value to the property, people believe that they own the property, and people work to create the property, it is more fair to have ownership vest in the creator of the property than in the hands of the developers of the virtual
    worlds"
   "This freedom to alter the terms of the EULA at any time allows the software developer to potentially change the terms of the contract
    every time the purchaser runs the program, with the only “assent” required 
