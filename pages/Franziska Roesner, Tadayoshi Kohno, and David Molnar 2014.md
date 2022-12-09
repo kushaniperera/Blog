@@ -3,5 +3,5 @@
   type:: [[Legal]] 
   category:: [[Literature]]  
   published-year:: 2014
-  DOI::
-  citation:: Glushko, Bobby, Tales of the (Virtual) City: Governing Property Disputes in Virtual Worlds (June 13, 2007). Berkley Technology Law Journal, Vol. 22, No. 507, 2007, Available at SSRN: [https://ssrn.com/abstract=1458547](https://ssrn.com/abstract=1458547)
+  DOI:: [10.1145/2580723.2580730](https://doi.org/10.1145/2580723.2580730) 
+  citation:: Franziska Roesner, Tadayoshi Kohno, and David Molnar. 2014. Security and privacy for augmented reality systems. Commun. ACM 57, 4 (April 2014), 88–96. https://doi.org/10.1145/2580723.2580730
