@@ -1,7 +1,7 @@
 - Pervasive Augmented Reality— Technology and Ethics
-  authors:: [[Franziska Roesner]] [[Tadayoshi Kohno]] [[David Molnar]]
-  type:: [[Legal]] 
+  authors:: [[Holger Regenbrecht]] [[Sander Zwanenburg]] [[Tobias Langlotz]]
+  type:: [[Ethics]] 
   category:: [[Literature]]  
-  published-year:: 2014
-  DOI:: [10.1145/2580723.2580730](https://doi.org/10.1145/2580723.2580730) 
-  citation:: Franziska Roesner, Tadayoshi Kohno, and David Molnar. 2014. Security and privacy for augmented reality systems. Commun. ACM 57, 4 (April 2014), 88–96. https://doi.org/10.1145/2580723.2580730
+  published-year:: 2022
+  DOI:: [10.1109/MPRV.2022.3152993](https://doi.org/10.1109/MPRV.2022.3152993) 
+  citation:: H. Regenbrecht, S. Zwanenburg and T. Langlotz, "Pervasive Augmented Reality—Technology and Ethics," in *IEEE Pervasive Computing*, vol. 21, no. 3, pp. 84-91, 1 July-Sept. 2022, doi: 10.1109/MPRV.2022.3152993.
