@@ -8,7 +8,9 @@
 - "The goal of this article is to present a first list of ethical concerns that may arise from
   research and personal use of virtual reality (VR) and related technology, and to offer
   concrete recommendations for minimizing those risks."
+	- The UI is the form of experiential content that gives rise to autophenomenological reports of the type “I am this!”
 - Behavior is context sensitive and the mind is plastic, which is to say that it is capable of being continuously shaped and re-shaped by a host of causal factors.
+	- depersonalization, individuals experience an unreality of the bodily self, and in the case of derealization, individuals experience the external world as unreal.
 - suggest that our environment, including technology and other humans, has an unconscious influence on our behavior.
 - As investigations into VR have interestingly shown, a phenomenal reality as such becomes more real – in terms of the subjective experience of presence – as more agents recognizing one and interacting with one are contained in this reality.
 - VR can create a situation in which the user’s entire environment is determined by the creators of the virtual world, including “social hallucinations” induced by advanced avatar technology.
@@ -38,4 +40,4 @@
 - A reasonable starting point on this issue would be to treat avatars in an analogous manner to personality rights relating to the publication of photos.
 - Should we dynamically associate a “digital subject identifier” (DSI) with it [avatar]?
 - Avatar ownership and individuation will be an important issue for regulatory agencies to consider. There are strong reasons to place restrictions on the way in which avatars can be used, such as protecting the interests and privacy of individuals who strongly identify with their own particu- lar avatar on social networks.
-  The use of big data to “nudge” users (“Big Nudging”) combined with VR could have long-lasting effects, perhaps producing changes in users’ mental mechanisms themselves.
+- The use of big data to “nudge” users (“Big Nudging”) combined with VR could have long-lasting effects, perhaps producing changes in users’ mental mechanisms themselves.
