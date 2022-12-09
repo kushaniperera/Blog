@@ -3,20 +3,20 @@
   type:: [[Ethics]] 
   category:: [[Literature]]  
   published-year:: 2016
-  DOI:: [10.1007/978-94-007-6833-8_8](https://doi.org/10.1007/978-94-007-6833-8_8) 
-  citation:: Brinkman, Bo. (2014). Ethics and Pervasive Augmented Reality: Some Challenges and Approaches. 10.1007/978-94-007-6833-8_8.
+  DOI:: [10.3389/frobt.2016.00003](https://doi.org/10.3389/frobt.2016.00003) 
+  citation:: Madary M and Metzinger TK (2016) Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology. *Front. Robot. AI* 3:3. doi: 10.3389/frobt.2016.00003
 - "The goal of this article is to present a first list of ethical concerns that may arise from
   research and personal use of virtual reality (VR) and related technology, and to offer
   concrete recommendations for minimizing those risks."
-  Behavior is context sensitive and the mind is plastic, which is to say that it is capable of being continuously shaped and re-shaped by a host of causal factors.
-  suggest that our environment, including technology and other humans, has an unconscious influence on our behavior.
-  As investigations into VR have interestingly shown, a phenomenal reality as such becomes more real – in terms of the subjective experience of presence – as more agents recognizing one and interacting with one are contained in this reality.
-  VR can create a situation in which the user’s entire environment is determined by the creators of the virtual world, including “social hallucinations” induced by advanced avatar technology.
-  "For every self-conscious system, there exists a phenomenal unit of identification, such that the system possesses a single, conscious model of reality; the UI is a part of this model; at any given
+- Behavior is context sensitive and the mind is plastic, which is to say that it is capable of being continuously shaped and re-shaped by a host of causal factors.
+- suggest that our environment, including technology and other humans, has an unconscious influence on our behavior.
+- As investigations into VR have interestingly shown, a phenomenal reality as such becomes more real – in terms of the subjective experience of presence – as more agents recognizing one and interacting with one are contained in this reality.
+- VR can create a situation in which the user’s entire environment is determined by the creators of the virtual world, including “social hallucinations” induced by advanced avatar technology.
+- For every self-conscious system, there exists a phenomenal unit of identification, such that the system possesses a single, conscious model of reality; the UI is a part of this model; at any given
   point in time, the UI can be characterized by a specific and determinate representational content, which in turn constitutes the system’s phenomenal self-model"
-  These results can be taken together as empirical premises for an argument stating not only that there may be unexpected psychological risks if illusions of embodiment are misused, or used recklessly, but that, if we are interested in minimizing potential damage and future psychosocial costs, these risks are themselves ethically relevant.
-  We, therefore, suggest that careful experiments designed with the beneficent intention of discovering the psychological impact of immersion in VR are ethically permissible.
-  Standard exclusion criteria may involve, for instance, scoring above a particular threshold on scales testing for dissociative experiences (Bernstein and Putnam, 1986) or depersonalization
+- These results can be taken together as empirical premises for an argument stating not only that there may be unexpected psychological risks if illusions of embodiment are misused, or used recklessly, but that, if we are interested in minimizing potential damage and future psychosocial costs, these risks are themselves ethically relevant.
+- We, therefore, suggest that careful experiments designed with the beneficent intention of discovering the psychological impact of immersion in VR are ethically permissible.
+- Standard exclusion criteria may involve, for instance, scoring above a particular threshold on scales testing for dissociative experiences (Bernstein and Putnam, 1986) or depersonalization
   For instance, once the technology is available for patients to use, who will pay for it? Should medical insurance pay for HMDs and new software?
   Some of the risks and ethical concerns that we have already encountered in the early days of the internet10 will reappear, though with the added psychological impact enabled by embodiment and a strong sense of presence.
   Once the technology is adopted for personal use, there will be no limits on the time users choose to spend immersed. Similarly, most research using VR has been conducted using adult subjects.
