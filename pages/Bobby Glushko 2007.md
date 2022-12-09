@@ -30,7 +30,6 @@
   being the player’s continued use of the program"
 - because EULAs potentially immunize developers from liability, grant developers sole discretion over enforcement, and do not require meaningful agreement from players, conflicts arise between players and the game developers particularly where virtual property is involved.
 - In particular, EULAs fail to adequately protect player interests, permit inconsistent enforcement, anddo not conform to player expectations about their rights.
-  As one might expect, the developer-drafted EULAs generally protect developer interests over player interests.
 - As one might expect, the developer-drafted EULAs generally protect developer interests over player interests.
 - "EULAs should be drafted substantively better: they should meet player expectations regarding their rights to virtual property and game developers should not be able to escape liability for injuries caused by their actions by placing clauses in their EULAs 
   immunizing them from liability."
