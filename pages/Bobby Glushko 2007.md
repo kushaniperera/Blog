@@ -7,21 +7,15 @@
   citation:: Glushko, Bobby, Tales of the (Virtual) City: Governing Property Disputes in Virtual Worlds (June 13, 2007). Berkley Technology Law Journal, Vol. 22, No. 507, 2007, Available at SSRN: [https://ssrn.com/abstract=1458547](https://ssrn.com/abstract=1458547)
 -
 - This article outlines several virtual property disputes that had occurred at the time and the causes & rectifications of these situations.
-- This
-  Note examines multiple virtual property disputes and suggests that although
+- This note examines multiple virtual property disputes and suggests that although
   end user licensing agreements (EULAs) that govern the virtual worlds provide
   a method for resolving disputes, their unenforcement and uncertainty
   regarding their terms do not provide an adequate frame work to protect
-  players’ investments. | 
-  |
-- | 
-   | These
-  EULAs allow too much developer discretion in enforcing their terms,
+  players’ investments.
+- These EULAs allow too much developer discretion in enforcing their terms,
   preventing players from predicting what they can or can notdo and endangering
-  player investments in time and money. | 
-  |
-- | 
-   | as
+  player investments in time and money.
+- as
   players spend more time in them, they tend to develop meaningful
   relationships with the world, their avatar, and other players | 
   |
