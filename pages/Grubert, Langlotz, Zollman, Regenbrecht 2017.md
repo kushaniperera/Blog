@@ -1,5 +1,6 @@
 - Towards Pervasive Augmented Reality: Context Awareness in Augmented Reality
-  authors:: [[Holger Regenbrecht]] [[Sander Zwanenburg]] [[Tobias Langlotz]]
+  authors:: Jens Grubert, Member, IEEE, Tobias Langlotz, Member, IEEE,
+  Stefanie Zollmann, and Holger Regenbrecht, Member, IEEE
   type:: [[Ethics]] 
   category:: [[Literature]]  
   published-year:: 2022
