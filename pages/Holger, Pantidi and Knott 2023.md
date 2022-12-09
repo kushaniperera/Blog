@@ -21,7 +21,7 @@
   Bystanders were seen to be equally uncomfortable, and were often frustrated, especially when they felt that not all information was communicated to them."
 - Participants felt the PAR glasses had the potential to cause divisions in society through the asymmetry of access to information, social status and disconnect from reality
 - PAR glasses were seen as pervading all aspects of everyday life, from work opportunities to participation to social and fun activities. Interestingly, the option to ’opt out’ was not perceived as a viable one which made the exclusionary effect even more problematic.
-- PAR glasses were considered particularly problematic in the context of social interactions as they were seen as creating a boundary and significantly altering the way people engage with each other.
+- TODO PAR glasses were considered particularly problematic in the context of social interactions as they were seen as creating a boundary and significantly altering the way people engage with each other.
   In addition to the social awkwardness, a distinct otherness was felt and the social judgement went both ways, deepening the divide.
   The disconnect from the real world as well as the merging and conflation of what is real and what is not, were seeing as having potential (detrimental) implications for people’s mental health.
   In the focus groups, participants generally did not find the PAR glasses to be more ethically concerning than current technologies such as mobile phones, social media or other smart internet connected devices.
