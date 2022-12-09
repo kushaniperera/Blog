@@ -28,6 +28,10 @@
 - Improperly designed focus resolution may make it easy for malicious applications to steal user input intended for another application
 	- When multiple applications are active and might re- ceive voice or other input at any given time, there must be either a usable way for users to bring applications into fo- cus, or for the system to determine the correct intended destination for input commands when focus is ambiguous.
 - Researchers must explore appropri- ate access control models for cross- application sharing.
+	- users may wish to share virtual objects between applications.
 - AR systems will need to evolve new user gestures to in- dicate sharing intent.
 - " Such conflicting views will require users to manage mental models of who can perceive which information, lest they accidentally reveal private information intended only for themselves.
   Addressing this concern will require innovations in interface design for aid- ing users in this task.
+	- When there are multiple users all using dfferent AR systems.
+-
+	-
