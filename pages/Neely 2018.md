@@ -28,3 +28,7 @@
 - On the other hand, if we see augmentation as graffiti albeit frequently helpful or interesting graffiti—then it seems more within the state’s purview to control.
 - There’s also an interesting question about whether there might be good reason to prevent augmentation of a particular space even if the augmentation itself is not problematic. For instance, perhaps a piece of public art should be experienced as it is, rather than having people
   view its augmentations and thus experience it only through the lens of pre-conceived notions."
+-
+-
+- Augmented reality (AR) is a particular blend of the physical and the virtual; specifically, it is the use of technology in order to project digital content onto our experience of the physical world. #definition
+- Augmented reality has both virtual and physical components to experience the virtual content, one needs to be in a particular physical place. It is thus unlike virtual property or spaces because it is directly tied to locations in our geographic  world; you cannot experience the content from afar. However, it is unlike regular physical property because of its virtual component—simply being in a specific geographic location will not be enough to experience augmented reality; one must also have the correct technology.
