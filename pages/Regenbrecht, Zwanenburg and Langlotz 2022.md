@@ -7,9 +7,11 @@
   citation:: H. Regenbrecht, S. Zwanenburg and T. Langlotz, "Pervasive Augmented Reality—Technology and Ethics," in *IEEE Pervasive Computing*, vol. 21, no. 3, pp. 84-91, 1 July-Sept. 2022, doi: 10.1109/MPRV.2022.3152993.
 - To augment the most helpful and relevant content in any context, Pervasive AR systems need to capture the spatial and temporal context using a diverse array of sensors to determine, e.g., location, orientation, physical environment, gestures, and aspects of the user’s state.
   "Location& Tracking:
-- Future Pervasive AR systems will use those not just for building 3D representations of selected indoor environments but for reconstructing the entire physical world around the user while at the same time using those representations to track the position of the user."
-  Pervasive AR benefits from the use of “intelligent user interfaces,” which adapt to the current context of use by incorporating a comprehensive user model, environmental awareness, and continuous sensing and tracking.
-  "Pervasive AR devices can long-term capture detailed information about the user.
+- LOCATION AND TRACKING
+  
+  Future Pervasive AR systems will use those not just for building 3D representations of selected indoor environments but for reconstructing the entire physical world around the user while at the same time using those representations to track the position of the user."
+- Pervasive AR benefits from the use of “intelligent user interfaces,” which adapt to the current context of use by incorporating a comprehensive user model, environmental awareness, and continuous sensing and tracking.
+- Pervasive AR devices can long-term capture detailed information about the user.
   Hence, if exploited, the data captured in Pervasive AR opens up pathways to build models not only about the user but also everything else in the user’s view and environment."
   Pervasive AR faces the challenge that there is no simple opt-out mechanism as data is collected as part of its functionality. This is even more true for people affected by using Pervasive AR once it becomes omnipresent.We cannot assume all people in the environment to indicate (e.g., via a beacon) their consent.
   "Pervasive AR: We see the following three areas of particular relevance when discussing health and safety concerns:
