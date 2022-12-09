@@ -24,7 +24,7 @@
 - Public property:
   
   Issues about privacy violations seem less likely to occur, given the public nature of the space, and there would be plenty of room for multiple augmentations."
-  The state does not have the right to choose the topics of conversation within its public places. The fact that some of those conversations are virtual in nature would be irrelevant; the state cannot ethically choose the topic of your texts from a public location either.
-  On the other hand, if we see augmentation as graffiti albeit frequently helpful or interesting graffiti—then it seems more within the state’s purview to control.
-  "There’s also an interesting question about whether there might be good reason to prevent augmentation of a particular space even if the augmentation itself is not problematic. For instance, perhaps a piece of public art should be experienced as it is, rather than having people
+- The state does not have the right to choose the topics of conversation within its public places. The fact that some of those conversations are virtual in nature would be irrelevant; the state cannot ethically choose the topic of your texts from a public location either.
+- On the other hand, if we see augmentation as graffiti albeit frequently helpful or interesting graffiti—then it seems more within the state’s purview to control.
+- There’s also an interesting question about whether there might be good reason to prevent augmentation of a particular space even if the augmentation itself is not problematic. For instance, perhaps a piece of public art should be experienced as it is, rather than having people
   view its augmentations and thus experience it only through the lens of pre-conceived notions."
