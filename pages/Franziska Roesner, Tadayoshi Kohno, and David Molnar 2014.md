@@ -34,4 +34,12 @@
   Addressing this concern will require innovations in interface design for aid- ing users in this task.
 	- When there are multiple users all using dfferent AR systems.
 -
-	-
+	- "AR applications will require long-term or permanent access to sensor data at a scale beyond smartphone applications.
+	- [7]"
+	  "How AR technologies contribute to improved security:
+	- A personal heads-up display combined with a haptic sensor for discreet input would allow for greatly improved privacy
+	  AR systems can also act as an en- hanced password manager for users, presenting passwords or password hints via the personal display.
+	- Future systems can leverage AR technologies to detect privacy or security conditions of which the user should be alerted.
+	  Such systems could also detect physi- cal deception attempts.
+	  Similarly, exist- ing work on computerized interpreta- tion of facial expressions12 could be ap- plied to behavior-based lie detection."
+- ![image.png](../assets/image_1670546298755_0.png)
