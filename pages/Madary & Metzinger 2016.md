@@ -1,5 +1,5 @@
 - Real virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology
-  authors::  [[Michael Madar]] [[Thomas K. Metzinger]]
+  authors::  [[Michael Madary]] [[Thomas K. Metzinger]]
   type:: [[Ethics]] 
   category:: [[Literature]]  
   published-year:: 2016
