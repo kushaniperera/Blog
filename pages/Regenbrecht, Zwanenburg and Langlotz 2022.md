@@ -13,15 +13,15 @@
 - Pervasive AR benefits from the use of “intelligent user interfaces,” which adapt to the current context of use by incorporating a comprehensive user model, environmental awareness, and continuous sensing and tracking.
 - Pervasive AR devices can long-term capture detailed information about the user.
   Hence, if exploited, the data captured in Pervasive AR opens up pathways to build models not only about the user but also everything else in the user’s view and environment."
-  Pervasive AR faces the challenge that there is no simple opt-out mechanism as data is collected as part of its functionality. This is even more true for people affected by using Pervasive AR once it becomes omnipresent.We cannot assume all people in the environment to indicate (e.g., via a beacon) their consent.
-  "Pervasive AR: We see the following three areas of particular relevance when discussing health and safety concerns:
+- Pervasive AR faces the challenge that there is no simple opt-out mechanism as data is collected as part of its functionality. This is even more true for people affected by using Pervasive AR once it becomes omnipresent.We cannot assume all people in the environment to indicate (e.g., via a beacon) their consent.
+- "Pervasive AR: We see the following three areas of particular relevance when discussing health and safety concerns:
   1) perceptual distraction and blind spots;
   2) ergonomics; and
   3) long-term effects of AR exposure."
-  "While Pervasive AR requires less user input, gaze and eye based
+- While Pervasive AR requires less user input, gaze and eye based
   interfaces are likely to play a more important role with potential unknown long-term effects."
-  continuous augmentation of information into the field of view of a user undoubtedly will lead to issues with attention, cognitive workload, and distraction, if not addressed properly.
-  "In particular, when snap decisions by users are required in potentially high workload situations. One way to mitigate this is to reintroduce the disbelief similarly to the “device gap.” 
+- continuous augmentation of information into the field of view of a user undoubtedly will lead to issues with attention, cognitive workload, and distraction, if not addressed properly.
+- In particular, when snap decisions by users are required in potentially high workload situations. One way to mitigate this is to reintroduce the disbelief similarly to the “device gap.” 
   There is already research on different styles how to finish an immersive experience and effects for breaks in  illusion and we would advocate for more research into how to leave and re-enter computer-generated realities."
   Similarly, we should give the users control over the level of deception, e.g., by placing “halos” around virtual objects, or a level 0–10 control of the degree of visibility of virtuality in the  experienced scene
   "Overall, we strongly argue for a “Breaking the Magician’s Code” action; by revealing the following:
