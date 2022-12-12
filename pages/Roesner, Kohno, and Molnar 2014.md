@@ -16,9 +16,9 @@
 - "input attacks" Traditional input validation techniques are likely to apply, but the designers of AR systems should be aware of their neces- sity in this new context
 - "data access challenges" an important challenge for AR systems will be to balance the access required for functionality with the risk of an application stealing data or misusing that access.
 	- a malicious application may leak the user’s location or video feed to its backend servers.
-- AR system designers must consider the appropriate granu- larity for these permissions, and the design of usable permission manage- ment interfaces will be important.
+- AR system designers must consider the appropriate granularity for these permissions, and the design of usable permission management interfaces will be important.
 	- Perhaps an application only requires access to a portion of the screen when the user is in a certain location, or only needs to know about certain objects the sys- tem recognizes
-- "By- standers should be able to opt out of or be anonymized (for example, blurred) in the recordings of others;
+- "Bystanders should be able to opt out of or be anonymized (for example, blurred) in the recordings of others;
   AR users may need methods to prove to skepti- cal bystanders that such safeguards are in place."
 - Conflicts among multiple applications attempting to use these output devices can lead to security concerns (output sharing)
 	- For example, a malicious application might try to obscure content presented by another application
