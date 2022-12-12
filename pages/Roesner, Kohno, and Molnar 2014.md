@@ -12,10 +12,10 @@
 - Malicious applications can use similar techniques to cause sensory overload for users - "output attacks"
 	- By flashing bright lights in the display, playing loud sounds, or delivering intense haptic feedback, applications could physically harm users.
 	- As a last resort for output attacks, users must be able to easily and reliably return to the real world, that is, with all output devices verifiablly turned off
-- Another approach may be to reserve a trusted region of the display that always shows the real world.
+	- Another approach may be to reserve a trusted region of the display that always shows the real world.
 - "input attacks" Traditional input validation techniques are likely to apply, but the designers of AR systems should be aware of their neces- sity in this new context
-- "data access challenges" an im- portant challenge for AR systems will be to balance the access required for functionality with the risk of an appli- cation stealing data or misusing that access.
-	- a malicious appli- cation may leak the user’s location or video feed to its backend servers.
+- "data access challenges" an important challenge for AR systems will be to balance the access required for functionality with the risk of an application stealing data or misusing that access.
+	- a malicious application may leak the user’s location or video feed to its backend servers.
 - AR system designers must consider the appropriate granu- larity for these permissions, and the design of usable permission manage- ment interfaces will be important.
 	- Perhaps an application only requires access to a portion of the screen when the user is in a certain location, or only needs to know about certain objects the sys- tem recognizes
 - "By- standers should be able to opt out of or be anonymized (for example, blurred) in the recordings of others;
