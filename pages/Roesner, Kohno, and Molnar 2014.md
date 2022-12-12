@@ -19,7 +19,7 @@
 - AR system designers must consider the appropriate granularity for these permissions, and the design of usable permission management interfaces will be important.
 	- Perhaps an application only requires access to a portion of the screen when the user is in a certain location, or only needs to know about certain objects the sys- tem recognizes
 - "Bystanders should be able to opt out of or be anonymized (for example, blurred) in the recordings of others;
-  AR users may need methods to prove to skepti- cal bystanders that such safeguards are in place."
+	- AR users may need methods to prove to skeptical bystanders that such safeguards are in place."
 - Conflicts among multiple applications attempting to use these output devices can lead to security concerns (output sharing)
 	- For example, a malicious application might try to obscure content presented by another application
 	  future AR systems must handle conflicts between multiple appli- cations attempting to produce output.
