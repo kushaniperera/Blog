@@ -9,10 +9,10 @@
 	- Micro- soft’s SDK for Kinect,20 which provides accurate motion sensing by combining an RGB camera, a depth camera, and a multi-array microphone, has enabled numerous prototype AR applications
 - these technologies should leverage standard security best practices, such as on-device and network encryption.
 - ... obstactles handling conflicts between multiple applications sharing an AR system’s output—that are simultaneously intellectually challenging yet surmountable. Other challenges, such as access control for data, ...
-- Malicious applications can use similar techniques to cause sensory over- load for users - "output attacks"
+- Malicious applications can use similar techniques to cause sensory overload for users - "output attacks"
 	- By flashing bright lights in the display, playing loud sounds, or delivering intense haptic feedback, applications could physically harm users.
-- As a last resort for output attacks, users must be able to easily and reliably return to the real world, that is, with all output devices verifiablly turned off
-- Another approach may be to re- serve a trusted region of the display that always shows the real world.
+	- As a last resort for output attacks, users must be able to easily and reliably return to the real world, that is, with all output devices verifiablly turned off
+- Another approach may be to reserve a trusted region of the display that always shows the real world.
 - "input attacks" Traditional input validation techniques are likely to apply, but the designers of AR systems should be aware of their neces- sity in this new context
 - "data access challenges" an im- portant challenge for AR systems will be to balance the access required for functionality with the risk of an appli- cation stealing data or misusing that access.
 	- a malicious appli- cation may leak the user’s location or video feed to its backend servers.
