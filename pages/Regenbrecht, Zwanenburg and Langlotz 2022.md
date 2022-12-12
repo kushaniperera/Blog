@@ -1,6 +1,6 @@
 - Pervasive Augmented Reality— Technology and Ethics
   authors:: [[Holger Regenbrecht]] [[Sander Zwanenburg]] [[Tobias Langlotz]]
-  type:: [[Ethics]] 
+  type:: [[Ethics]] [[PAR]] 
   category:: [[Literature]]  
   published-year:: 2022
   DOI:: [10.1109/MPRV.2022.3152993](https://doi.org/10.1109/MPRV.2022.3152993) 
