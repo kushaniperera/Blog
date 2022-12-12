@@ -1,0 +1,9 @@
+- Marker: Atea Project poster
+-
+- Content: KFC, Starbucks, National Party, Labour Party, Cigarettes (some French poster), McDonalds, Smirnoff, Jack Daniels, Jaytee cupcakes, Arc Brewery
+- Unacceptable content (Source: Meta [https://transparency.fb.com/policies/ad-standards/](https://transparency.fb.com/policies/ad-standards/))
+	- Illegal products, Vaccine discouragement, Discrimination, pyramid schemes,
+	- Issues
+- 2D images do not render in Lens studio version 28.1
+- Cannot deploy the lens to spectacles without lens studio shutting down
+- Cannot publish lenses with questionable content
