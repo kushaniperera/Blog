@@ -1,4 +1,4 @@
-- Towards Pervasive Augmented Reality: Context Awareness in Augmented Reality
+- To See and Be Seen—Perceived Ethics of Pervasive Augmented Reality
   authors:: [[Holger Regenbrecht]] [[N Pantidi]] [[A Knott]] 
   type::  [[PAR]] 
   category:: [[Literature]]  
