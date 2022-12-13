@@ -1,10 +1,10 @@
 - Augmented Reality All Around Us: Power and Perception at a Crossroads
-  authors::  [[Marty J Wolf]] [[Frances Godzinsky]] [[Keith Miller]]
+  authors::  [[Marty J Wolf]] [[Frances Grodzinsky]] [[Keith Miller]]
   type:: [[Ethics]] 
   category:: [[Literature]]  
   published-year:: 2015
-  DOI:: 
-  citation:: Wolf, Marty J., Frances S. Grodzinsky and Keith W. Miller. “Augmented reality all around us.” *ACM SIGCAS Computers and Society* 45 (2016): 126 - 131.
+  DOI:: [10.1145/2874239.2874257](https://doi.org/10.1145/2874239.2874257) 
+  citation:: Marty J. Wolf, Frances Grodzinsky, and Keith Miller. 2016. Augmented reality all around us: power and perception at a crossroads. SIGCAS Comput. Soc. 45, 3 (September 2015), 126–131. https://doi.org/10.1145/2874239.2874257.
 - These sorts of interactions raise questions regarding autonomy and suggest a strong need for informed consent protocols
 - we explore how these devices impact individual identity and thus raise the question of ownership of the space between an object and someone’s eyes.
 - In [7] we considered deception to be “an intentional, successful attempt by developers to deceive users, and a misapprehension by people other than the developers.”
