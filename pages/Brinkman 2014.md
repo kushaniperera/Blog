@@ -1,6 +1,6 @@
 - Ethics and Pervasive Augmented Reality: Some Challenges and Approaches
   authors::  [[Bo Brinkman]]
-  type:: [[Ethics]] 
+  type:: [[Ethics]] [[PAR]] 
   category:: [[Literature]]  
   published-year:: 2014
   DOI:: [10.1007/978-94-007-6833-8_8](https://doi.org/10.1007/978-94-007-6833-8_8) 
