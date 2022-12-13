@@ -2,7 +2,7 @@
   authors::  [[Marty J Wolf]] [[Frances Grodzinsky]] [[Keith Miller]]
   type:: [[Ethics]] 
   category:: [[Literature]]  
-  published-year:: 2015
+  published-year:: 2016
   DOI:: [10.1145/2874239.2874257](https://doi.org/10.1145/2874239.2874257) 
   citation:: Marty J. Wolf, Frances Grodzinsky, and Keith Miller. 2016. Augmented reality all around us: power and perception at a crossroads. SIGCAS Comput. Soc. 45, 3 (September 2015), 126–131. https://doi.org/10.1145/2874239.2874257.
 - These sorts of interactions raise questions regarding autonomy and suggest a strong need for informed consent protocols
