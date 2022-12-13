@@ -5,6 +5,10 @@
   published-year:: 2022
   DOI:: [10.1109/MPRV.2022.3152993](https://doi.org/10.1109/MPRV.2022.3152993) 
   citation:: H. Regenbrecht, S. Zwanenburg and T. Langlotz, "Pervasive Augmented Reality—Technology and Ethics," in *IEEE Pervasive Computing*, vol. 21, no. 3, pp. 84-91, 1 July-Sept. 2022, doi: 10.1109/MPRV.2022.3152993.
+- [[card]] has investigated how the sophisticated technology affect the society. They identify that there is a potential for unethical data exploitation given the massive amount of data that would be gathered
+  by an omnipresent, continuous technology such as PAR. They further states the  ethical importance of communicating the state of data collection to bystanders. The study further delves into the importance of health and safety considerations especially related to the prolonged exposure to PAR, which is still under-researched. Additionally, the study points out that due to the nature of PAR being
+  seamlessly integrated in the real-world that there can be dangers in users being unable to distinguish augmentations from what is real.
+-
 - To augment the most helpful and relevant content in any context, Pervasive AR systems need to capture the spatial and temporal context using a diverse array of sensors to determine, e.g., location, orientation, physical environment, gestures, and aspects of the user’s state.
   "Location& Tracking:
 - LOCATION AND TRACKING
