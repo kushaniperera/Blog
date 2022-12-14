@@ -1,2 +1,2 @@
 - #Morals
-	- Socrates: Morality isn't just oobeying the law, but something much more spiritua
+	- Socrates: Morality isn't just oobeying the law, but something much more spiritual. Once we know who we are (Purpose/ function), we will know how to behave well.
