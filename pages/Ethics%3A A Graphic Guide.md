@@ -5,4 +5,4 @@
 	- Machiavelli:All good rulers should have virtues but also the ability do the immoral for the right end.
 	- Utilitarianism
 		- Bentham: Morals are what will increase pleasure and reduce pain.
-	- Immanuel Kant: Deontoloy (Believing in duty). Moral actions are those done from a sense o
+	- Immanuel Kant: Deontoloy (Believing in duty). Moral actions are those done from a sense of duty.
