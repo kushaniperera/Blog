@@ -4,4 +4,4 @@
 	- Aristotle: Moral's are inherently instilled and developed over time through practice. Morals help choose the best mean to an end that will give a sense of fulfillment.
 	- Machiavelli:All good rulers should have virtues but also the ability do the immoral for the right end.
 	- Utilitarianism
-		- Bentham
+		- Bentham: Morals are what will increase pleasure and reduce pain.
