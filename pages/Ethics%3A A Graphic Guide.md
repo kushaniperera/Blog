@@ -3,4 +3,4 @@
 	- Plato: Morality is not a human convention but a part of the structure of the universe itself., Morality of the individual and morality of the state are the same.
 	- Aristotle: Moral's are inherently instilled and developed over time through practice. Morals help choose the best mean to an end that will give a sense of fulfillment.
 	- Machiavelli:All good rulers should have virtues but also the ability do the immoral for the right end.
-	- Utili
+	- Utilitarianism
