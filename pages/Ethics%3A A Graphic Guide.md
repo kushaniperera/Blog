@@ -1,2 +1,3 @@
 - #Morals
 	- Socrates: Morality isn't just oobeying the law, but something much more spiritual. Once we know who we are (Purpose/ function), we will know how to behave well.
+	- Plato: Morality is not a human convention but a part of the structure o
