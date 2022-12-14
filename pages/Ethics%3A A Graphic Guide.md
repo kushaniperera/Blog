@@ -1,8 +1,12 @@
 - #Morals
-	- Socrates: Morality isn't just oobeying the law, but something much more spiritual. Once we know who we are (Purpose/ function), we will know how to behave well.
-	- Plato: Morality is not a human convention but a part of the structure of the universe itself., Morality of the individual and morality of the state are the same.
-	- Aristotle: Moral's are inherently instilled and developed over time through practice. Morals help choose the best mean to an end that will give a sense of fulfillment.
-	- Machiavelli:All good rulers should have virtues but also the ability do the immoral for the right end.
+	- **Socrates**: Morality isn't just obeying the law, but something much more spiritual. Once we know who we are (Purpose/ function), we will know how to behave well. (Real knowledge is uncovered from discussion and argument)
+	- **Plato**: Morality is not a human convention but a part of the structure of the universe itself., Morality of the individual and morality of the state are the same.
+	- **Aristotle**: Moral's are inherently instilled and developed over time through practice. Morals help choose the best mean to an end that will give a sense of fulfilment. —
+	- **Machiavelli**: All good rulers should have virtues but also the ability do the immoral for the right end.
 	- Utilitarianism
-		- Bentham: Morals are what will increase pleasure and reduce pain.
-	- Immanuel Kant: Deontoloy (Believing in duty). Moral actions are those done from a sense of duty. Morality is choosing duties, not wants or consequences
+		- **Bentham**: Morals are what will increase pleasure and reduce pain.
+	- **Immanuel Kant**: Deontoloy (Believing in duty). Moral actions are those done from a sense of duty. Morality is choosing duties, not wants or consequences
+	- **David Hume**: Morals are psychological. Subjective. They're merely a persons emotions towards a particular instance.
+	- **Paul Satre**: Morality is dependent on the freedom to choose.
+	- **Alasdair McIntyre**: Ethics should concentrate more on the people we should be rather than the things we do.
+		- All morality is the result of tradition. it is futile to think one can  exist as some kind of traditionless and timeless moral system based on reason.

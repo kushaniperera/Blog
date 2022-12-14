@@ -1,6 +1,6 @@
 - To See and Be Seen—Perceived Ethics of Pervasive Augmented Reality
   authors:: [[Holger Regenbrecht]] [[N Pantidi]] [[A Knott]] 
-  type::  [[PAR]] 
+  type::  [[PAR]] [[Ethics]] 
   category:: [[Literature]]  
   published-year:: 2023
   DOI:: n/a

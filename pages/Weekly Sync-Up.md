@@ -39,10 +39,17 @@
 		- Gave the Atea project poster for a marker
 -
 - Thu, 8-12-2022
-	- TODO Should add a lot more adverts
+	- DONE Should add a lot more adverts
 		- thought provoking content like tobacco, political posters
-	- TODO make a recording of the demo running on the specs
+	- DONE make a recording of the demo running on the specs
 		- Jonathan's done it before should be able to help.
 		- point grey camera
 		-
--
+- Thu, 15-12-22
+	- Demo
+		- The posters weren't stationery.
+		- Rendered in screen space not in world space
+		- TODO IPD (Interpupillary Distance) seemed off:  check if there's a way to fix it to about 6.5cm
+		- TODO Add stuff to Kerian's door and the whiteboard behind to make it really like hyperreality
+	- Demo recording
+		- Think about building a holder for the webcam and spectacles so they can be moved around with a tripod
