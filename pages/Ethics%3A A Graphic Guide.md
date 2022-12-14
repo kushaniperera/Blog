@@ -1,2 +1,2 @@
 - #Morals
-	- Socrates
+	- Socrates: Morality isn't just oobeying the law, but something much more spiritua
