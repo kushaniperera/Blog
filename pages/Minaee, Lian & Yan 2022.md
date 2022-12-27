@@ -3,5 +3,6 @@
   type:: [[AR]] [[Other]]
   category:: [[Literature]]  
   published-year:: 2022
-  DOI:: /link 
-  citation:: *Marion Koelle, Swamy Ananthanarayan, and Susanne Boll. 2020. Social Acceptability in HCI: A Survey of Methods, Measures, and Design Strategies. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–19. https://doi.org/10.1145/3313831.3376162*
+  DOI:: [10.48550/arXiv.2202.09450](https://doi.org/10.48550/arXiv.2202.09450) 
+  citation:: Minaee, Shervin, Xiaodan Liang and Shuicheng Yan. “Modern Augmented Reality: Applications, Trends, and Future Directions.” *ArXiv* abs/2202.09450 (2022): n. pag.
+- [[card]] The paper outlines the evolution of AR, after which it addresses the domains with AR applications
