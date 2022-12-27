@@ -1,4 +1,4 @@
-- Moed
+- Modern Augmented Reality: 
   authors:: [[Marion Koelle]], [[Swamy Ananthanarayan]], [[Susanne Boll]]
   type:: [[Study Design]] [[Social Acceptability]]
   category:: [[Literature]]  
