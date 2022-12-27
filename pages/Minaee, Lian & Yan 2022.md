@@ -1,5 +1,5 @@
-- Modern Augmented Reality: 
-  authors:: [[Marion Koelle]], [[Swamy Ananthanarayan]], [[Susanne Boll]]
+- Modern Augmented Reality: Applications, Trends and Future Direction
+  authors:: [[Shervin Minaee]]
   type:: [[Study Design]] [[Social Acceptability]]
   category:: [[Literature]]  
   published-year:: 2020
