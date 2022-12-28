@@ -1,6 +1,6 @@
 - The Social Comfort of Wearable Technology and Gestural Interactions
-  authors:: [[Marion Koelle]], [[Swamy Ananthanarayan]], [[Susanne Boll]]
-  type:: [[Study Design]] [[Social Acceptability]]
+  authors::
+  type::  [[Study Design]] [[Social Acceptability]]
   category:: [[Literature]]  
   published-year:: 2020
   DOI:: [10.1145/3313831.3376162](http://dx.doi.org/10.1145/3313831.3376162) 
