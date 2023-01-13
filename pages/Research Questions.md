@@ -1,5 +1,5 @@
 - **Question 1**
-	- **How Pervasive Augmented Reality would affect communication?**
+	- **How Pervasive Augmented Reality would affect the communication and interaction behaviour of users among themselves and with non-users?**
 		- Does communication behaviour change with the introduction of multi-user PAR
 			- When each user sees a different augmentation of the same space, it creates a divide and a certain level of unawareness/ information gap between users. How would that phenomena affect the interaction among each other
 		- Between users and non-users
@@ -7,4 +7,5 @@
 -
 - **Question 2**
 	- **How the perception of property ownership changes with the introduction of PAR**
+		-
 -
