@@ -3,6 +3,7 @@
 		- Between multi-users
 			- When each user sees a different augmentation of the same space, it creates a divide and a certain level of unawareness/ information gap between users. How would that phenomena affect the interaction among each other
 		- Between users and non-users
+	-
 -
 - **Question 2**
 	-
