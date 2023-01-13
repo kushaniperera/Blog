@@ -54,4 +54,4 @@
 	- Demo recording
 		- Think about building a holder for the webcam and spectacles so they can be moved around with a tripod
 - Thu, 12-01-23
-	-
+	- TODO
