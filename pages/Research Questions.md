@@ -1,3 +1,8 @@
 - **Question 1**
-	- How Pervasive Augmented Reality would affect communica
+	- **How Pervasive Augmented Reality would affect communication?
+		- Between multi-users
+		- Between users and non-users
+-
+- **Question 2**
+	-
 -
