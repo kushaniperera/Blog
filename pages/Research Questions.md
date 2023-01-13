@@ -1,7 +1,7 @@
 - **Question 1**
 	- **How Pervasive Augmented Reality would affect communication?**
 		- Between multi-users
-			- When each user sees a different augmentation of the same space, it creates a divide and a certai
+			- When each user sees a different augmentation of the same space, it creates a divide and a certain level of unawareness/ information gap between users. How would that phenomena affect the interact
 		- Between users and non-users
 -
 - **Question 2**
