@@ -50,7 +50,7 @@
 		- The posters weren't stationery.
 		- Rendered in screen space not in world space
 		- TODO IPD (Interpupillary Distance) seemed off:  check if there's a way to fix it to about 6.5cm
-		- TODO Add stuff to Kerian's door and the whiteboard behind to make it really like hyperreality
+		- TODO Add stuff to Kerian's door and the whiteboard behind to make it really look like hyperreality
 	- Demo recording
 		- Think about building a holder for the webcam and spectacles so they can be moved around with a tripod
 - Thu, 26-01-23
