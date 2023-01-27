@@ -57,7 +57,7 @@
 	- Demo
 		- TODO Add animations
 		- TODO increase the near clipping plane value to 9m
-		- TODO add provoking messages (labour)
+		- TODO add provoking messages (labour-national, pro/ anti smoking, pro/ anti drinking)
 	- TODO look up frustom value
 -
 -
