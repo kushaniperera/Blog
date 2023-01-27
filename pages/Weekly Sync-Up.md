@@ -54,4 +54,7 @@
 	- Demo recording
 		- Think about building a holder for the webcam and spectacles so they can be moved around with a tripod
 - Thu, 26-01-23
-	- TODO
+	- Demo
+		- TODO Add animations
+		- TODO increase the near clipping plane value to 9m
+		-
