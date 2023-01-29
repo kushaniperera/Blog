@@ -10,7 +10,7 @@
 - The concept of Pervasive Augmented Reality requires that the AR system can adapt to the current, changing requirements and constraints of the user’s context and thus allows for a continuous usage.
 - In fact, context-aware AR user interfaces can be seen as an instance of recommender systems, as
   they present adapted content to users, based on their specific situation.
-- Pervasive Augmented Reality is a continuous and pervasive user interface that augments the physical world with digital information registered in 3D, while being aware of and responsive to the users context.
+- **Pervasive Augmented Reality** is a continuous and pervasive user interface that augments the physical world with digital information registered in 3D, while being aware of and responsive to the users context. #definition
 - The main difference between PAR and conventional AR is the temporal component of the use. Conventional AR systems are used rather sporadically, ad-hoc and not in a continuous mode like PAR systems.
 - To date, AR applications are designed to be used in a restricted, specific context while PAR applications must work in all contexts and be adaptive and context aware only PAR delivers a true augmented reality experience by moving away from simple information overlay, which is added to a scene towards actual information augmentation, embedding  virtuality into reality.
 - Given that AR emphasizes visual augmentation, a main target for adaption is an adapted graphical representation of the content.
