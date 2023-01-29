@@ -6,7 +6,7 @@
   DOI:: [10.1109/TVCG.2016.2543720](https://doi.org/10.1109/TVCG.2016.2543720) 
   citation:: J. Grubert, T. Langlotz, S. Zollmann and H. Regenbrecht, "Towards Pervasive Augmented Reality: Context-Awareness in Augmented Reality," in *IEEE Transactions on Visualization and Computer Graphics*, vol. 23, no. 6, pp. 1706-1724, 1 June 2017, doi: 10.1109/TVCG.2016.2543720.
 - Augmented Reality (AR) is a user interface metaphor, which allows for interweaving digital data with physical spaces
-- We call this continuous AR experience Pervasive Augmented Reality as an continuous, omnipresent, and universal augmented interface to information in the physical world.
+- We call this continuous AR experience Pervasive Augmented Reality as an continuous, omnipresent, and universal augmented interface to information in the physical world. #definition
 - The concept of Pervasive Augmented Reality requires that the AR system can adapt to the current, changing requirements and constraints of the user’s context and thus allows for a continuous usage.
 - In fact, context-aware AR user interfaces can be seen as an instance of recommender systems, as
   they present adapted content to users, based on their specific situation.
