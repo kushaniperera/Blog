@@ -10,3 +10,5 @@
   _"A discussion of recording preferences and blocking naturally segues to ethical, philosophical, and legal discussions about the ownership of space, the rights of an AR user, and the ownership of content."_
   _"Devices could attempt to gather such context based on co-located individuals, online listings, physical artifacts in the environment, or even the user’s calendar entries."_ [on making location-aware devices]
 - #Paratyping is a methodology for collecting in- situ feedback from bystanders via situated experience prototyping. With this technique, participants are recruited to act as proxies for the researchers. Participants carry short surveys and distribute them to bystanders with whom they interact. The surveys, which are returned by mail
+-
+- They used mock-up AR glasses
