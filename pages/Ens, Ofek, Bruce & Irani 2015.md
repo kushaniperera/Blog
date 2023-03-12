@@ -1,4 +1,4 @@
-- Spatial Contancy of Surface-Embedded Layouts 
+- Spatial Contancy of Surface-Embedded Layouts Across Multiple Environments
   authors:: [[Fouad Alallah]] [[Ali Neshati]] [[Yumiko Sakamoto]] [[Khalad Hasan]] [[Edward Lank]] [[Andrea Bunt]] [[Pourang Irani]]
   type:: [[Social Acceptability]]
   category:: [[Literature]]  
