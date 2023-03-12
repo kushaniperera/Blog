@@ -8,3 +8,5 @@
 -
 - This paper identifies the important factors to consider when designing embedded visualisations:
   1. Conform to surface structure
+  2. Maintain layout consistency
+  3. Preserve background information
