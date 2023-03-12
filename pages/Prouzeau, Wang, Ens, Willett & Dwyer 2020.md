@@ -1,4 +1,4 @@
-- Cosican Twins: Authoring in Situ Augmented Reality Visualisations in Virtual Reality
+- Corsican Twins: Authoring in Situ Augmented Reality Visualisations in Virtual Reality
   authors:: [[Arnaud Prouzeau]] [[Yuchen Wang]] [[Barrett Ens]] [[Wesley Willett]] [[Tim Dwyer]]
   type:: [[Study Design]] 
   category:: [[Literature]]  
