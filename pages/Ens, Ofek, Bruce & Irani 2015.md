@@ -3,5 +3,8 @@
   type:: [[Study Design]] 
   category:: [[Literature]]  
   published-year:: 2015
-  DOI:: [10.1145/3281505.3281541](http://dx.doi.org/10.1145/2788940.2788954) 
-  citation:: Fouad Alallah, Ali Neshati, Yumiko Sakamoto, Khalad Hasan, Edward Lank, Andrea Bunt, and Pourang Irani. 2018. Performer vs. observer: whose comfort level should we consider when examining the social acceptability of input modalities for head-worn display? In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST '18). Association for Computing Machinery, New York, NY, USA, Article 10, 1–9. https://doi.org/10.1145/3281505.3281541
+  DOI:: [10.1145/2788940.2788954](http://dx.doi.org/10.1145/2788940.2788954) 
+  citation:: Ens, B., Bruce, N., & Irani, P. (2015). Spatial constancy of surface-embedded layouts across multiple environments. *SUI 2015 - Proceedings of the 3rd ACM Symposium on Spatial User Interaction*, 65–68. https://doi.org/10.1145/2788940.2788954
+-
+- This paper identifies the important factors to consider when designing embedded visualisations:
+  1. Conform to surface structure
