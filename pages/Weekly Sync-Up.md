@@ -62,7 +62,7 @@
 	- Deception based studies: Milgram experiment
 - Thu, 16-02-23
 	- DONE Personality screening for participants
-		- Big Five OCEAN questionnaire to determine their intraversion
+		- Big Five OCEAN questionnaire to determine their extraversion
 	- Between subjects:
 		- Group 1 thinks everyone sees the same thing
 		- Group 2 thinks its different for everyone
@@ -70,4 +70,6 @@
 		- Communication Satisfaction Inventory: Hecht
 -
 - Thu, 21/02
+	- Task options:
+		- Pr
 	-
