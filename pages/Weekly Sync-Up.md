@@ -90,5 +90,11 @@
 - Thu, 23-03-23
 	- Measures:
 		- Light value from camera/ photos
-		- LATER Ask Noel about the levels (noticeable)
-			-
+		- DONE Ask Noel about the levels (noticeable)
+		  :LOGBOOK:
+		  CLOCK: [2023-03-24 Fri 11:34:58]--[2023-03-24 Fri 11:34:59] =>  00:00:01
+		  CLOCK: [2023-03-24 Fri 11:35:00]--[2023-03-24 Fri 11:35:00] =>  00:00:00
+		  CLOCK: [2023-03-24 Fri 11:35:00]--[2023-03-24 Fri 11:35:01] =>  00:00:01
+		  :END:
+			- He suggested optimal, acceptable, minimally acceptable
+		-
