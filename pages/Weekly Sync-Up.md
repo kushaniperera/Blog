@@ -77,4 +77,6 @@
 		- Desert survival game
 -
 - Thu, 02-03-23
+	- No backgrounds for the text
+	- Text can be smaller
 	-
