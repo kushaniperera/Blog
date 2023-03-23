@@ -84,4 +84,5 @@
 		- Assumptions
 			- all users believe they see the same thing
 	- [[Syiem, Kelly, Goncalves, Velloso & Dingler 2021]]
-		-
+		- Task specific content lead attention tunnelling
+	- DONE try out the demo with text vs images
