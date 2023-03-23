@@ -11,6 +11,6 @@
 	- Receivers:
 		- System Usability Scale SUS
 		- Raw TLX (perceived task load)
-		-
+		- noticeability, urgency, understandability, intrusiveness
 	- Observer:
-	-
+		- awkward, normal, rude, appropriate, uncomfortable, distracting
