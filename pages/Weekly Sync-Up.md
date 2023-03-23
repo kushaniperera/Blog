@@ -55,9 +55,9 @@
 		- Think about building a holder for the webcam and spectacles so they can be moved around with a tripod
 - Thu, 26-01-23
 	- Demo
-		- TODO Add animations
-		- TODO increase the near clipping plane value to 9m
-		- TODO add provoking messages (labour-national, pro/ anti smoking, pro/ anti drinking, veg/non-veg)
+		- DONE Add animations
+		- DONE increase the near clipping plane value to 9m
+		- DONE add provoking messages (labour-national, pro/ anti smoking, pro/ anti drinking, veg/non-veg)
 	- TODO look up frustom value
 	- Deception based studies: Milgram experiment
 -
