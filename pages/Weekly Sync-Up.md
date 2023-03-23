@@ -60,5 +60,7 @@
 		- DONE add provoking messages (labour-national, pro/ anti smoking, pro/ anti drinking, veg/non-veg)
 	- TODO look up frustom value
 	- Deception based studies: Milgram experiment
--
+- Thu, 16-02-23
+	- TODO Personality screening for participants
+		- OCEAN
 -
