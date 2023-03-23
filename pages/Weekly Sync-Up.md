@@ -61,11 +61,13 @@
 	- TODO look up frustom value
 	- Deception based studies: Milgram experiment
 - Thu, 16-02-23
-	- TODO Personality screening for participants
-		- OCEAN questionnaire to determine their intraversion
+	- DONE Personality screening for participants
+		- Big Five OCEAN questionnaire to determine their intraversion
 	- Between subjects:
 		- Group 1 thinks everyone sees the same thing
 		- Group 2 thinks its different for everyone
-	- TODO measures
-		- Communication Satisfaction
+	- DONE measures
+		- Communication Satisfaction Inventory: Hecht
 -
+- Thu, 21/02
+	-
