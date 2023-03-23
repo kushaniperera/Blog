@@ -53,6 +53,7 @@
 		- DONE Add stuff to Kerian's door and the whiteboard behind to make it really look like hyperreality
 	- Demo recording
 		- Think about building a holder for the webcam and spectacles so they can be moved around with a tripod
+-
 - Thu, 26-01-23
 	- Demo
 		- DONE Add animations
@@ -60,6 +61,7 @@
 		- DONE add provoking messages (labour-national, pro/ anti smoking, pro/ anti drinking, veg/non-veg)
 	- TODO look up frustom value
 	- Deception based studies: Milgram experiment
+-
 - Thu, 16-02-23
 	- DONE Personality screening for participants
 		- Big Five OCEAN questionnaire to determine their extraversion
@@ -69,7 +71,9 @@
 	- DONE measures
 		- Communication Satisfaction Inventory: Hecht
 -
-- Thu, 21/02
+- Thu, 21-02-23
 	- Task options:
-		- Pr
-	-
+		- Prisoner's dilemma
+		- Desert survival game
+-
+-
