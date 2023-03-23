@@ -82,5 +82,6 @@
 	- TODO Write up
 		- Reason for why what's augmented is augmented
 		- Assumptions
-			- all users believe they see the same thin
-				-
+			- all users believe they see the same thing
+	- [[Syiem, Kelly, Goncalves, Velloso & Dingler 2021]]
+		-
