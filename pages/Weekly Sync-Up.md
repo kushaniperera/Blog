@@ -87,3 +87,4 @@
 		- Task specific content lead attention tunnelling
 	- DONE try out the demo with text vs images
 	- Distractors would need to be personally relatable but the task is general because all participants have to solve the task
+- 23
