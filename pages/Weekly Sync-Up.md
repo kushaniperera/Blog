@@ -62,5 +62,8 @@
 	- Deception based studies: Milgram experiment
 - Thu, 16-02-23
 	- TODO Personality screening for participants
-		- OCEAN
+		- OCEAN questionnaire to determine their intraversion
+	- Between subjects:
+		- Group 1 thinks everyone sees the same thing
+		- Group 2 thinks
 -
