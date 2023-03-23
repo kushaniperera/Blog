@@ -79,4 +79,7 @@
 - Thu, 02-03-23
 	- No backgrounds for the text
 	- Text can be smaller
-	-
+	- TODO Write up
+		- Reason for why what's augmented is augmented
+		- Assumptions
+			- all users believe the
