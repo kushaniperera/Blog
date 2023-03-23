@@ -65,5 +65,7 @@
 		- OCEAN questionnaire to determine their intraversion
 	- Between subjects:
 		- Group 1 thinks everyone sees the same thing
-		- Group 2 thinks
+		- Group 2 thinks its different for everyone
+	- TODO measures
+		- Communication Satisfaction
 -
