@@ -82,4 +82,5 @@
 	- TODO Write up
 		- Reason for why what's augmented is augmented
 		- Assumptions
-			- all users believe they see the same thing
+			- all users believe they see the same thin
+				-
