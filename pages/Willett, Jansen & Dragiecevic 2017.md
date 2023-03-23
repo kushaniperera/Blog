@@ -1,5 +1,5 @@
 - Embedded Data Representations
-  authors:: [[Arnaud Prouzeau]] [[Yuchen Wang]] [[Barrett Ens]] [[Wesley Willett]] [[Tim Dwyer]]
+  authors:: [[Wesley Willett]] [[Tim Dwyer]]
   type:: [[Study Design]] 
   category:: [[Literature]]  
   published-year:: 2020
